@@ -1,7 +1,7 @@
 #+TITLE:   Shekhar Mittal
-#+AUTHOR:    Shiwali Mohan
-#+EMAIL:     shiwali.mohan@gmail.com
-#+DESCRIPTION: Shiwali's personal website
+#+AUTHOR:    Shekhar Mittal
+#+EMAIL:     shekhar.mittal@gmail.com
+#+DESCRIPTION: Shekhar's personal website
 #+LANGUAGE:  en
 #+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc author:nil
@@ -23,6 +23,7 @@
   <ul>
     <li><a href="#outline-container-1">About</a></li>
     <li><a href="#outline-container-2">Research</a></li>
+    <li><a href="#outline-container-3">Papers</a></li>
     </ul>
 #+END_HTML
 
@@ -33,4 +34,6 @@ I am a graduate student in University of Chicago.
 -----
 * Research
 I work on very random stuff.
+-----
+* Papers
 -----
