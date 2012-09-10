@@ -25,7 +25,8 @@
     <li><a href="#outline-container-2">Research</a></li>
     <li><a href="#outline-container-3">Papers</a></li>
     <li><a href="#outline-container-4>Tools</a></li>
-    </ul>
+    <li><a href="#outline-container-5>Hacks</a></li>
+  </ul>
 #+END_HTML
 
 
@@ -48,7 +49,7 @@ I work on very random stuff.
 ** Viewpoint
 -----
 * Tools
-** Drupal
+** Drupal 
 ** Google Refine
 ** FrontlineSMS
 ** Ushahidi
