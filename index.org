@@ -24,6 +24,7 @@
     <li><a href="#outline-container-1">About</a></li>
     <li><a href="#outline-container-2">Research</a></li>
     <li><a href="#outline-container-3">Papers</a></li>
+    <li><a href="#outline-container-4>Tools</a></li>
     </ul>
 #+END_HTML
 
@@ -31,11 +32,11 @@
 -----
 * About
 I am a Master of Public Policy student in [[harrisschool.uchicago.edu][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]], Chicago. My expected graduation date is June 2013. 
-I have been working with Prof. Marianne Bertrand at Booth Graduate School of Business since April, 2012. I have also been working with Prof. Pablo Montagnes at Harris School of Public Policy since January, 2012. 
+I have been working with [[http://www.chicagobooth.edu/faculty/bio.aspx%3Fperson_id%3D12824551424][Prof. Marianne Bertrand]] at Booth Graduate School of Business since April, 2012. I have also been working with [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Prof. Pablo Montagnes]] at Harris School of Public Policy since January, 2012. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I am interested in understanding how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary and need to be consider this variation towards achieving intended policy outcomes.
 
-I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a Software Engineer in their Core Routing Business Unit. It did not take me long to realise that life of a full time software engineer will not be fulfilling. 
+I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a Software Engineer in their Core Routing Business Unit. It did not take me long to realise that life of a full time software engineer will not be fulfilling. My first move was to a [[http://praja.in][start-up]] which was interested in urban development issues. This was eventually followed by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. 
 
 -----
 I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com.
@@ -43,4 +44,19 @@ I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.do
 I work on very random stuff.
 -----
 * Papers
+** Criminals Beget Criminals Effect
+** Viewpoint
+-----
+* Tools
+** Drupal
+** Google Refine
+** FrontlineSMS
+** Ushahidi
+** Emacs
+** Org-Mode
+** Perl
+** 
+* Scripts and Hacks
+** Perl Script
+** Stata Scripts
 -----
