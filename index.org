@@ -30,8 +30,15 @@
 
 -----
 * About
-I am a graduate student in University of Chicago.
+I am a Master of Public Policy student in [[harrisschool.uchicago.edu][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]], Chicago. My expected graduation date is June 2013. 
+I have been working with Prof. Marianne Bertrand at Booth Graduate School of Business since April, 2012. I have also been working with Prof Pablo Montagnes at Harris School of Public Policy since January, 2012. 
+
+I am interested in poverty and development issues in emerging economies. Specifically, I am interested in understanding how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary and need to be consider this variation towards achieving intended policy outcomes.
+
+I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a Software Engineer in their Core Routing Business Unit. It did not take me long to realise that life of a full time software engineer will not be fulfilling. 
+
 -----
+I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com.
 * Research
 I work on very random stuff.
 -----
