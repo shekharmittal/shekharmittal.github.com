@@ -45,19 +45,19 @@ I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.do
 I work on very random stuff.
 -----
 * Papers
-** Criminals Beget Criminals Effect
-** Viewpoint
+Criminals Beget Criminals Effect
+Viewpoint
 -----
 * Tools
-** Drupal 
-** Google Refine
-** FrontlineSMS
-** Ushahidi
-** Emacs
-** Org-Mode
-** Perl
+*** Drupal
+*** Google Refine
+*** FrontlineSMS
+*** Ushahidi
+*** Emacs
+*** Org-Mode
+*** Perl
 ** 
 * Scripts and Hacks
-** Perl Script
-** Stata Scripts
+*** Perl Script
+*** Stata Scripts
 -----
