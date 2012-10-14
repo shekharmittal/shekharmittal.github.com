@@ -25,7 +25,7 @@
     <li><a href="#outline-container-2">Research</a></li>
     <li><a href="#outline-container-3">Papers</a></li>
     <li><a href="#outline-container-4">Tools</a></li>
-    <li><a href="#outline-container-5">Hacks</a></li>
+    <li><a href="#outline-container-5">Scripts</a></li>
   </ul>
 #+END_HTML
 
@@ -77,12 +77,17 @@ Mouse becomes redundant. Org-mode allows you to create to-do lists, track agenda
 This website was completely built in emacs and org-mode. 
 
     ----- 
-* Scripts and Hacks
+* Scripts 
 This page has a few basic scripts that I put together (from internet) to clean data that was needed in our research. Feel free to use them, send some my way (I don't like to reinvent the wheel) if you have them.  
 Most scripts that we end up writing have already been written by someone at someplace. This is my way of giving back. 
 
 *** Perl Scripts
-**** 
+1. Convert from PdF to text\\
+Copying text from Pdf is easy but if one has to do it for multiple files and multiple pages this can be slow painful and boring. [[http://shekhar.me/scripts/createpdf2txt.pl][This]] small script automates it. \\
+
+2. Convert from text to CSV\\
+One needs to know how to handle [[perldoc.perl.org/perlre.html][regular expressions]] in Perl to do this (if want to use this file, will have to change the regular expression for sure). This script reads the text file line by line and puts the content in the required CSV format. \\
 
 *** Stata Scripts
+Writing for loops in stata is cumbersome. Here is a stata file in which I read specific cells from the multiple tabs of the same excel and append them into a single dataset. 
 -----
