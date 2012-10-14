@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
                "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>Shekhar Mittal</title>
-<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 <meta name="title" content="Shekhar Mittal"/>
 <meta name="generator" content="Org-mode"/>
-<meta name="generated" content="2012-10-14 17:19:48 CDT"/>
+<meta name="generated" content="2012-10-14 17:52:25 CDT"/>
 <meta name="author" content="Shekhar Mittal"/>
 <meta name="description" content="Shekhar's personal website"/>
 <meta name="keywords" content=""/>
@@ -138,13 +138,39 @@ I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.do
 <h2 id="sec-2">Research</h2>
 <div class="outline-text-2" id="text-2">
 
-<p>Marianne Bertrand
+
+</div>
+
+<div id="outline-container-2-1" class="outline-4">
+<h4 id="sec-2-1">Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers</h4>
+<div class="outline-text-4" id="text-2-1">
+
+<p>I am involved in this project under Professor Marianne Bertrand and <a href="http://dss.ucsd.edu/~pniehaus/">Professor Paul Niehaus</a>. <br/>
 </p>
 <p>
-Pablo Montagnes
-
+Currently I am looking at how public grievance systems that are legislated in various states of India can be used to measure the effectiveness of the district level IAS officers.
 </p>
+<p>
+I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. The goal of the exercise was multifold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
+</p>
+<p>
+Developed time-use tracking forms and survey questionnaires for the district collectors.
+Formulated Right to Information Act questionnaires to get data which could help measure the performance of district level IAS oﬃcers as part of their statutory &amp; regulatory responsibilities.
+Reviewed government documents to understand the statutory and developmental responsibilities of IAS oﬃcers and narrowed the research problem. Wrote perl scripts to get election data for national and state level elections (1980 onwards) in India.
+</p>
+
+</div>
+
+</div>
+
+<div id="outline-container-2-2" class="outline-4">
+<h4 id="sec-2-2">Effect of name order in Senate roll call voting pattern</h4>
+<div class="outline-text-4" id="text-2-2">
+
+
+
 <hr/>
+</div>
 </div>
 
 </div>
@@ -240,8 +266,8 @@ This website was completely built in emacs and org-mode.
 <h2 id="sec-5">Scripts</h2>
 <div class="outline-text-2" id="text-5">
 
-<p>This page has a few basic scripts that I put together (from internet) to clean data that was needed in our research. Feel free to use them, send some my way (I don't like to reinvent the wheel) if you have them.  
-Most scripts that we end up writing have already been written by someone at someplace. This is my way of giving back. 
+<p>Here you will find a few basic scripts that I put together (copied and modified from internet) to clean data that was needed in our research. Feel free to use them, send some more my way if you have them.  
+Most scripts that we write have already been written by someone at someplace. No point in reinventing the wheel. Hopefully this list will grow with time. 
 </p>
 
 </div>
@@ -250,19 +276,12 @@ Most scripts that we end up writing have already been written by someone at some
 <h4 id="sec-5-1">Perl Scripts</h4>
 <div class="outline-text-4" id="text-5-1">
 
-<ol>
-<li>Convert from PdF to text<br/>
-</li>
-</ol>
-
-<p>Copying text from Pdf is easy but if one has to do it for multiple files and multiple pages this can be slow painful and boring. <a href="http://shekhar.me/scripts/createpdf2txt.pl">This</a> small script automates it. <br/>
+<p>a. Convert from pdf to text<br/>
+Copying text from Pdf is easy but if one has to do it for multiple files and multiple pages this can be slow, painful and boring. <a href="http://shekhar.me/scripts/createpdf2txt.pl">This</a> small script automates it. <br/>
 </p>
-<ol>
-<li>Convert from text to CSV<br/>
-</li>
-</ol>
-
-<p>One needs to know how to handle <a href="#perldoc.perl.org-perlre.html">regular expressions</a> in Perl to do this (if want to use this file, will have to change the regular expression for sure). This script reads the text file line by line and puts the content in the required CSV format. <br/>
+<p>
+b. Convert from text to csv<br/>
+One needs to know how to handle <a href="#perldoc.perl.org-perlre.html">regular expressions</a> in Perl to do this (if one wants to use this file, she will have to change the regular expression for sure). <a href="http://shekhar.me/scripts/createtxt2csv.pl">This</a> script reads the text file line by line and puts the content in the required CSV format. <br/>
 </p>
 </div>
 
@@ -272,7 +291,7 @@ Most scripts that we end up writing have already been written by someone at some
 <h4 id="sec-5-2">Stata Scripts</h4>
 <div class="outline-text-4" id="text-5-2">
 
-<p>Writing for loops in stata is cumbersome. Here is a stata file in which I read specific cells from the multiple tabs of the same excel and append them into a single dataset. 
+<p>Writing "for loops" in stata is cumbersome. <a href="http://shekhar.me/scripts/multiplesheets2singledataset.do">Here</a> is a stata file in which I read specific cells from the multiple tabs of the same excel and append them into a single dataset. 
 
 </p>
 <hr/>
@@ -282,7 +301,7 @@ Most scripts that we end up writing have already been written by someone at some
 </div>
 
 <div id="postamble">
-<p class="date">Date: 2012-10-14 17:19:48 CDT</p>
+<p class="date">Date: 2012-10-14 17:52:25 CDT</p>
 <a href="http://validator.w3.org/check?uri=referer">Validate XHTML 1.0</a>
 
 </div>
