@@ -46,28 +46,33 @@ I am involved in this project under Professor Marianne Bertrand and [[http://dss
 
 Currently I am looking at how public grievance systems that are legislated in various states of India can be used to measure the effectiveness of the district level IAS officers.
 
-I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. The goal of the exercise was multifold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
+I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
 
-Developed time-use tracking forms and survey questionnaires for the district collectors.
-Formulated Right to Information Act questionnaires to get data which could help measure the performance of district level IAS oﬃcers as part of their statutory & regulatory responsibilities.
-Reviewed government documents to understand the statutory and developmental responsibilities of IAS oﬃcers and narrowed the research problem. Wrote perl scripts to get election data for national and state level elections (1980 onwards) in India.
+I developed time-use tracking forms and survey questionnaires for the district collectors, formulated Right to Information Act questionnaires to get data which could help measure the performance of district level IAS oﬃcers as part of their statutory & regulatory responsibilities.
+
+At the initial stages I reviewed government documents to understand the statutory and developmental responsibilities of IAS oﬃcers and narrowed the research problem. Between all this, I wrote perl scripts to get election data for national and state level elections (1980 onwards) in India.
 
 
 *** Effect of name order in Senate roll call voting pattern
+Under Professor Pablo Montagnes, I am analysing the impact of the order in which a senator is called to vote on her voting behaviour. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
+
+Using senator and congress fixed effects, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also tend to take signal from
+the way in which senators from her party have already voted.
+
+Besides doing the stata analysis, I also wrote perl scripts to extract senate and house roll-call data from 1940 onwards into a analysable data set.
 
 -----
 * Papers
-Whats in a name
+Working paper: “What’s in a name? Eﬀect of name order in Senate roll call”, Dan Magleby, Shekhar Mittal and Pablo Montagnes, September 2012.\\
 
-Independent Study
+Short working paper: “Distance as an instrument for measuring centralized control in government schools”, December 2012.\\
 
-Viewpoint
+Policy memo: “Reservation in Private Schools under the Right to Education Act: Model for Implementation”, Shekhar Mial and Parth J Shah, December 2010.\\
 
-Criminals Beget Criminals Effect
-
+Research design as part of course-work: "Indian Politics: The Criminals beget Criminals Effect", May 2012\\
 -----
 * Tools
-I don't claim to be a computer science nerd but from time to time I wonder if there was a tool to help me do the task that I was performing better. This page is for people like me. Here, I list some tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They make my work efficient and fun. In case you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools  had it not been for my computer sciency geeky friends.) 
+I don't claim to be a computer science nerd but from time to time I wonder if there was a better way to the task that I was undertaking. This page is for people like me. Here, I list some tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They make my work efficient and fun. In case you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools  had it not been for my computer sciency geeky friends.) 
 
 *** [[http://drupal.org/][Drupal]]
 If you are looking to create a website which goes beyond your typical texty/html/css requirements, drupal is it. A lot of the times one needs to include functionalities which are complicated but fairly common. Think integrating google maps, blogs, forums, wikis, anything and everything into one website. Chances are that you will find a module in Drupal which suits your needs closely.
@@ -87,7 +92,7 @@ Mouse becomes redundant. Org-mode allows you to create to-do lists, track agenda
 
 This website was completely built in emacs and org-mode. 
 
-    ----- 
+----- 
 * Scripts 
 Here you will find a few basic scripts that I put together (copied and modified from internet) to clean data that was needed in our research. Feel free to use them, send some more my way if you have them.  
 Most scripts that we write have already been written by someone at someplace. No point in reinventing the wheel. Hopefully this list will grow with time. 
