@@ -42,13 +42,18 @@ I am from India. I received an undergraduate degree in Computer Engineering from
 I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com.
 * Research
 Marianne Bertrand
+
 Pablo Montagnes
 -----
 * Papers
 Whats in a name
+
 Independent Study
-Viewpoin
+
+Viewpoint
+
 Criminals Beget Criminals Effect
+
 -----
 * Tools
 I don't claim to be a computer science nerd but from time to time I wonder if there was a tool to help me do the task that I was performing better. This page is for people like me, on this page I list some tools that I have used and found useful and fascinating. All of them are free and have an active online community. They made my work efficient and fun. In case you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases I would not have latched on to them had it not been for my computer sciency geeky friends) 
