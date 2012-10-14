@@ -56,24 +56,33 @@ Criminals Beget Criminals Effect
 
 -----
 * Tools
-I don't claim to be a computer science nerd but from time to time I wonder if there was a tool to help me do the task that I was performing better. This page is for people like me. Here, I list some tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They make my work efficient and fun. In case you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases I would not have latched on to them had it not been for my computer sciency geeky friends) 
+I don't claim to be a computer science nerd but from time to time I wonder if there was a tool to help me do the task that I was performing better. This page is for people like me. Here, I list some tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They make my work efficient and fun. In case you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools  had it not been for my computer sciency geeky friends.) 
 
 *** [[http://drupal.org/][Drupal]]
-
+If you are looking to create a website which goes beyond your typical texty/html/css requirements, drupal is it. A lot of the times one needs to include functionalities which are complicated but fairly common. Think integrating google maps, blogs, forums, wikis, anything and everything into one website. Chances are that you will find a module in Drupal which suits your needs closely.
 
 *** [[http://code.google.com/p/google-refine/][Google Refine]]
+If you are the types who looks into government data especially in developing countries such as India, you regularly come across data with spelling and naming inconsistencies. This is great tool that helps you solve that problem. I am told there are other ways in which people have gotten around this problem (reclink command in stata, Prof Bhavnani wrote an [[http://www.rikhilbhavnani.com/RB-AMIN.exe%20documentation.pdf][application]]) but this one has the google name behind it.
 
 *** [[http://www.frontlinesms.com/][FrontlineSMS]]
+There are lot of SMS server offerings out there, one has to obviously pay for them and be sure of what he/she wants. On top of that, those services usually require you to have access to internet - a luxury not easily available in developing countries. FrontlineSMS is a tool that allows you to create and manage common SMS activities such as making announcements, conducting polls and sending automatic replies to incoming SMS. Potentially a great tool to collect data from the field. All one needs is a laptop and a mobile phone. 
 
 *** [[http://www.ushahidi.com][Ushahidi]]
+A part of me feels that crowdsourcing is going to be the way to collect data in the near future. Think any kind of issues ([[http://votereport.pk/][election violations]], [[http://www.prijavikorupcija.org/][transparency]], etc.)  getting reported live and coming up on a map and all of that in a crowd sourced manner. Ushahidi will be at the forefront of enabling that. 
 
-*** [[http://www.gnu.org/software/emacs/][Emacs]]
+*** [[http://www.gnu.org/software/emacs/][Emacs]] plus [[http://orgmode.org/][Org-Mode]]
+These tools have a little steep learning curve but once you cross it, they are addictive! I use emacs to write and edit: assignments, papers, presentations, latex files, scripts, anything and everything. One can open multiple files in the same window and then compile them from there itself. 
+Mouse becomes redundant. Org-mode allows you to create to-do lists, track agendas, create text files and then very easily export them to other formats such as latex, pdfs and htmls. 
 
-*** [[http://orgmode.org/][Org-Mode]]
+This website was completely built in emacs and org-mode. 
+
     ----- 
 * Scripts and Hacks
+This page has a few basic scripts that I put together (from internet) to clean data that was needed in our research. Feel free to use them, send some my way (I don't like to reinvent the wheel) if you have them.  
+Most scripts that we end up writing have already been written by someone at someplace. This is my way of giving back. 
 
-*** Perl Script
+*** Perl Scripts
+**** 
 
 *** Stata Scripts
 -----
