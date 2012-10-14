@@ -63,13 +63,13 @@ Besides doing the stata analysis, I also wrote perl scripts to extract senate an
 
 -----
 * Papers
-Working paper: “What’s in a name? Eﬀect of name order in Senate roll call”, Dan Magleby, Shekhar Mittal and Pablo Montagnes, September 2012.\\
+Working paper: [[http://shekhar.me/papers/nameorder.pdf][“What’s in a name? Eﬀect of name order in Senate roll call”]], Dan Magleby, Shekhar Mittal and Pablo Montagnes, September 2012.\\
 
-Short working paper: “Distance as an instrument for measuring centralized control in government schools”, December 2012.\\
+Short working paper: [[http://shekhar.me/papers/distance.pdf][“Distance as an instrument for measuring centralized control in government schools”]], December 2012.\\
 
-Policy memo: “Reservation in Private Schools under the Right to Education Act: Model for Implementation”, Shekhar Mial and Parth J Shah, December 2010.\\
+Policy memo: [[http://shekhar.me/papers/viewpoint10.pdf][“Reservation in Private Schools under the Right to Education Act: Model for Implementation”]], Shekhar Mial and Parth J Shah, December 2010.\\
 
-Research design as part of course-work: "Indian Politics: The Criminals beget Criminals Effect", May 2012\\
+Research design as part of course-work: [[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], May 2012\\
 -----
 * Tools
 I don't claim to be a computer science nerd but from time to time I wonder if there was a better way to the task that I was undertaking. This page is for people like me. Here, I list some tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They make my work efficient and fun. In case you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools  had it not been for my computer sciency geeky friends.) 
