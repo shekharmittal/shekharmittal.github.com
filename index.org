@@ -36,27 +36,27 @@ I am a Master of Public Policy student in [[http://harrisschool.uchicago.edu/][H
 
 I am interested in poverty and development issues in emerging economies. Specifically, I am interested in understanding how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary and we need to consider this variation towards achieving intended developmental outcomes.
 
-I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a Software Engineer in their Core Routing Business Unit. It did not take me long to realise that life of a full time software engineer will not be fulfilling. My first move was to a [[http://praja.in][start-up]] which was interested in urban development issues. This was followed by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I looked at elementary education sector in India with a specific focus on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act, 2009. 
+I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. It did not take me long to realise that life of a full time software engineer will not be fulfilling. My first move was to a [[http://praja.in][start-up]] which was interested in urban development issues. This was followed by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I looked at elementary education sector in India with a specific focus on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act, 2009. 
 
 -----
-I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on October 14, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. From time to time I become active on [[http://twitter.com/shekhar_m][twitter]]. 
+I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on October 14, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. Occasionally, I am active on [[http://twitter.com/shekhar_m][twitter]]. 
 * Research
 *** Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers
 I am involved in this project under Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]]. \\
 
-Currently I am looking at how public grievance systems that are legislated in various states of India can be used to measure the effectiveness of the district level IAS officers.
+Currently, I am looking at how public grievance systems in various states of India can be used to measure the effectiveness of district level IAS officers.
 
-I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
+I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. Here, I shadowed 2 district magistrates for a week each for as much time as they permitted. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
 
-I developed time-use tracking forms and survey questionnaires for the district collectors, formulated Right to Information Act questionnaires to get data which could help measure the performance of district level IAS oﬃcers as part of their statutory & regulatory responsibilities.
+I developed time-use tracking forms and survey questionnaires for the district magistrates, formulated Right to Information Act questionnaires to get data which could help measure the performance of district level IAS oﬃcers as part of their statutory & regulatory responsibilities.
 
-At the initial stages I reviewed government documents to understand the statutory and developmental responsibilities of IAS oﬃcers and narrowed the research problem. Between all this, I wrote perl scripts to get election data for national and state level elections (1980 onwards) in India.
+In the initial stages, I reviewed government documents to understand the statutory and developmental responsibilities of IAS oﬃcers and narrowed the research problem. Between all this, I wrote perl scripts to get election data for national and state level elections (1980 onwards) in India.
 
 
 *** Effect of name order in Senate roll call voting pattern
-Under Professor Pablo Montagnes, I am analysing the impact of the order in which a senator is called to vote on her voting behaviour. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
+Under Professor Pablo Montagnes, I am analysing the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
 
-Using senator and congress fixed effects, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also tend to take signal from
+Using senator and congress fixed effects, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also get signal from
 the way in which senators from her party have already voted.
 
 Besides doing the stata analysis, I also wrote perl scripts to extract senate and house roll-call data from 1940 onwards into a analysable data set.
@@ -65,11 +65,11 @@ Besides doing the stata analysis, I also wrote perl scripts to extract senate an
 * Papers
 Working paper: [[http://shekhar.me/papers/nameorder.pdf][“What’s in a name? Eﬀect of name order in Senate roll call”]], Dan Magleby, Shekhar Mittal and Pablo Montagnes, September 2012.\\
 
-Short working paper: [[http://shekhar.me/papers/distance.pdf][“Distance as an instrument for measuring centralized control in government schools”]], December 2012.\\
+Short working paper: [[http://shekhar.me/papers/distance.pdf][“Distance as an instrument for measuring centralized control in government schools”]], Shekhar Mittal, December 2012.\\
 
-Policy memo: [[http://shekhar.me/papers/viewpoint10.pdf][“Reservation in Private Schools under the Right to Education Act: Model for Implementation”]], Shekhar Mial and Parth J Shah, December 2010.\\
+Policy memo: [[http://shekhar.me/papers/viewpoint10.pdf][“Reservation in Private Schools under the Right to Education Act: Model for Implementation”]], Shekhar Mittal and Parth J Shah, December 2010.\\
 
-Research design as part of course-work: [[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], May 2012\\
+Research design as part of course-work: [[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], May 2012.\\
 -----
 * Tools
 I don't claim to be a computer science nerd but from time to time I wonder if there was a better way to the task that I was undertaking. This page is for people like me. Here, I list some tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They make my work efficient and fun. In case you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools  had it not been for my computer sciency geeky friends.) 
