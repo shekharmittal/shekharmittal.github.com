@@ -1,0 +1,209 @@
+#+TITLE:     
+#+AUTHOR:    
+#+EMAIL:     
+#+DATE:      
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+#+latex_class: article
+#+latex_header: \usepackage[left=2cm,top=1.8cm,right=2cm,bottom=2cm,nohead,nofoot]{geometry}
+#+latex_header: \usepackage{bbding}
+#+latex_header: \usepackage{amssymb}
+#+latex_header: \usepackage{multicol}
+#+latex_header: \usepackage{eurosym}
+#+latex_header: \usepackage{color,graphicx}
+#+latex_header: \usepackage[usenames,dvipsnames]{xcolor}
+#+latex_header: \usepackage[small,compact]{titlesec}
+#+latex_header: \usepackage{fontspec,xltxtra,xunicode}
+#+latex_header: \setromanfont[Mapping=tex-text]{Linux Libertine O}
+#+latex_header: \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Linux Libertine O}
+#+latex_header: \setmonofont[Scale=MatchLowercase]{MgOpen Modata}
+#+latex_header: \usepackage{hyperref}
+#+latex_header: \definecolor{linkcolour}{rgb}{0,0,0.6}
+#+latex_header: \hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+#+latex_header: \pagestyle{empty}
+#+latex_header: \usepackage{enumitem}
+#+latex_header: \setitemize[0]{leftmargin=*,itemsep=0pt,parsep=1pt,topsep=1pt}
+
+#+begin_latex
+\begin{centering} \par{
+		{\sffamily\huge Shekhar Mittal}\\
+\vspace{1em}
+{\normalsize 1167 E 54th Street Apartment 3, Chicago, IL 60615\\
+{\Phone} 734-780-1120   {\Envelope} \href{mailto:shekhar@uchicago.edu}{shekhar@uchicago.edu}  {\HandRight} \href{http://shekhar.me}{www.shekhar.me}\\
+}}
+\end{centering}
+
+\titleformat{\section}
+	{\color{headings}
+		\scshape\Large\raggedright}{}{0em}{}[\color{black}\titlerule]
+\titleformat{\subsection}
+	{\color{headings}
+		\large\raggedright}{}{0em}{}[\color{black}]
+\titlespacing{\section}{0pt}{2pt}{3pt}
+\renewcommand{\labelitemi}{$\bullet$}
+
+#+end_latex
+#+end_latex
+
+
+* Education
+\flushleft
+University of Chicago, \textbf{Harris School of Public Policy} \hfill August 2011 -- June 2013 (Expected)\\
+Master of Public Policy, 3.9/4.0\\
+Areas of Interest: Political Economy, Development\\
+Courses Taken: PhD level sequence in Econometrics, Micro-economics and Game Theory. Cost Benefit Analysis.\\
+GRE Score: Q169/V166/A4.0\\
+Awards: Dean's Scholarship (2011-2013), J.N. Tata Scholar (2011),
+K.C. Mahindra Scholar (2011)\\
+
+\vspace{1em}
+Delhi University, \textbf{Delhi College of Engineering}, New Delhi, India \hfill August 2003 -- June 2007\\ 
+Bachelor of Engineering in \emph{Computer Engineering}, \emph{First Division}\\
+Courses Taken: Mathematics I/II/III, Discrete Mathematics and Design of Algorithms, Theory of Automata and Formal Language.\\
+
+* Research Experience
+\flushleft
+Graduate Research Assistant to Professor Marianne Bertrand \hfill
+\textsc{\normalsize April 2012 -- Present}\\
+[[http://www.chicagobooth.edu/faculty/bio.aspx?person_id%3D12824551424][Booth Graduate School of Business]], University of Chicago \\
+\emph{Measuring performance and analysing time-use of Indian
+Administrative Service (IAS) officers.}
+- Undertook a field trip to Bihar, India to understand the time-use of district magistrates and to understand the bureaucratic setup at the district level.
+- Developed time-use tracking forms and survey questionnaires for the district magistrates.
+- Formulated questionnaires under the Right to Information Act to get data which could help measure the performance of district level IAS officers as part of their statutory \& regulatory responsibilities.
+- Reviewed government documents to understand the statutory and
+  developmental responsibilities of IAS officers and narrowed the
+  research problem.
+- Wrote perl scripts to get election data for national and state level
+  elections (1980 onwards) in India.
+
+\vspace{0.6em}
+
+Graduate Research Assistant to Professor Pablo Montagnes \hfill
+\textsc{April 2012 -- Present}\\
+[[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Harris School of Public Policy]], University of Chicago \\ 
+\emph{Effect of name order in senate roll call voting pattern.}
+ - Evaluated the impact of alphabetical order of the senators' last names on Senate roll call.
+ - Wrote Perl scripts to extract senate and house roll-call data starting from 1940 into a analysable data set.
+
+\vspace{0.6em}
+
+Graduate Research Assistant to Professor Pablo Montagnes \hfill
+\textsc{January 2012 -- March 2012}\\
+[[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Harris School of Public Policy]], University of Chicago \\ 
+\emph{Understanding voting patterns for simultaneous elections in a given year at the precinct level}
+- Designed a Stata program that extracts information from the Cook County precinct level election results into a user-friendly data set.
+- Wrote Stata programs to clean and analyze data.
+
+* Writing
+- \emph{Working Paper:} ``What's in a name? Effect of name order in
+  Senate roll call'' with Dan Magleby and Pablo Montagnes,
+  September 2012.
+  
+  \emph{Summary:} The paper shows that the alphabetical order of
+  Senator's last names has an impact on the way they cast their
+  votes. Using senator fixed effects, we find that senators who vote
+  last are more likely to agree with their party. 
+
+  \emph{Link:} http://shekhar.me/papers/nameorder.pdf
+
+- \emph{Short Paper:} ``Distance as an instrument for measuring
+  centralized control in government schools'', December 2012.
+
+  \emph{Summary:} The paper shows that the quality and outcomes of a
+  government school deteriorate as the distance of a government school
+  from district headquarters increases. This effect is absent in
+  private schools which tend to be decentralized.
+
+  \emph{Link:} http://shekhar.me/papers/distance.pdf
+
+
+- \emph{Policy Memo:} ``Reservation in Private Schools under the Right
+  to Education Act: Model for Implementation'', Shekhar Mittal and
+  Parth J Shah, December 2010.
+
+  \emph{Summary:} The memo suggests a model for effective
+  implementation of a specific provision under the Right of Children
+  to Free and Compulsory Education Act, 2009. \\
+
+  \emph{Link:} http://shekhar.me/papers/viewpoint10.pdf
+
+* Professional Experience
+\flushleft
+*Senior Campaign Associate*, /[[http://ccs.in][Centre for Civil Society]]/, New Delhi,
+India \hfill \textsc{\normalsize July 2010 -- June 2011}\\
+Co-ordinated the School Voucher for Girls project that piloted school
+choice in India. Did advocacy and research on the Right of Children to
+Free and Compulsory Education Act 2009, a law that aims to implement
+elementary education as a fundamental right. Worked on development and
+expansion of the [[http://righttoeducation.in][Right to Education Portal]], which tracked all the
+happenings in India related to the Right to Education Act. \\
+\vspace{0.6em}
+
+*Program Manager and Platform Engineer*, /[[http://praja.in][Praja]]/, Bangalore, India
+ \hfill \textsc{\normalsize August 2009 -- June 2010}\\
+Spearheaded MobiliCity, a citizen-driven initiative to understand
+problems and discuss solutions for sustainable transportation in
+Bangalore. Formulated associations with various organisations,
+including Loksatta - a local political party and Bangalore
+Metropolitan Transport Corporation - the local public transport
+authority, to use Praja as the platform  to run their campaigns. Led
+development efforts for Praja’s web-portal by exploiting social media,
+open source technologies, and mobile platforms.\\ 
+\vspace{0.6em}
+
+*Software Engineer*, /[[http://www.cisco.com][Cisco Systems]]/, Bangalore, India \hfill \textsc{\normalsize July 2007 -- July 2009}\\
+Conducted training sessions for 15-member Systems-Test team on
+upcoming technologies to be deployed across Japan and the USA. Handled
+development and quality control of cutting-edge IPv6 technology for
+leading US based clients that helped them meet stringent federal
+mandate.\\
+
+* Other Activities
+#+ATTR_LaTeX: align=rp{16cm}
+|      2010 | /Co-Lead/, [[http://praja.in/en/bwi][Bangalore Water Index]], Bangalore, India            |
+| 2009-2010 | /Mentor, Drupal Technology/, [[http://steptwo.co.in/][Step2]]                            |
+| 2008-2010 | /Founder/, [[http://soapboxblr.wordpress.com/][Soapbox]], Bangalore, India                          |
+|      2008 | /Co-Lead/, [[http://cleannandihills.wordpress.com/][Clean Nandi Green Nandi]], Bangalore, India          |
+| 2006-2007 | /Chairman/, IEEE Student Branch, Delhi College of Engineering |
+
+
+* Skills
+*Highly Proficient*: Stata, Drupal, C/C++, MySQL, Emacs, Linux (Ubuntu) \\
+*Proficient*: R, Perl \\
+*Experienced*: Matlab, Latex, Python, HTML, CSS \\
+\pagebreak
+* References
+#+latex: \begin{multicols}{2}
+- *Marianne Bertrand, Chris P. Dialynas Professor of Economics* \\
+  Booth School of Business, University of Chicago \\ 
+  5807 South Woodlawn Avenue\\
+  Chicago, IL 60637-1610\\
+  [[mailto:marianne.bertrand@chicagobooth.edu][marianne.bertrand@chicagobooth.edu]]\\
+- *B. Pablo Montagnes, Assistant Professor* \\
+  Harris School of Public Policy, University of Chicago \\
+  1155 E. 60th Street\\
+  Chicago, IL 60637\\
+  [[mailto:pmontagnes@uchicago.edu][pmontagnes@uchicago.edu]]\\  
+- *Dan Black, Professor*\\
+  Harris School of Public Policy, University of Chicago \\
+  1155 E. 60th Street\\
+  Chicago, IL 60637\\
+  [[mailto:danblack@uchicago.edu][danblack@uchicago.edu]]\\
+\\
+- *Paul Niehaus, Assistant Professor* \\
+  Economics Department, UC San Diego\\
+  9500 Gilman Drive \#0508\\
+  La Jolla, CA 92093-0508\\
+  [[mailto:pniehaus@ucsd.edu][pniehaus@ucsd.edu]] \\
+#+latex: \end{multicols}
+
