@@ -34,9 +34,9 @@
 * About
 I am a Master of Public Policy student in [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]], Chicago. My expected graduation date is June 2013. I have been working with [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] at Booth Graduate School of Business since April, 2012. I have also been working with [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Professor Pablo Montagnes]] at Harris School of Public Policy since January, 2012. 
 
-I am interested in poverty and development issues in emerging economies. Specifically, I am interested in understanding how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary and we need to consider this variation towards achieving intended developmental outcomes.
+I am interested in poverty and development issues in emerging economies. Specifically, I am interested in understanding how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. Plus, I want to analyze the impact of this variation towards achieving intended developmental outcomes.
 
-I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. It did not take me long to realise that life of a full time software engineer will not be fulfilling. My first move was to a [[http://praja.in][start-up]] which was interested in urban development issues. This was followed by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I looked at elementary education sector in India with a specific focus on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act, 2009. 
+I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. Wanting to do my bit for the society, I first moved to a [[http://praja.in][start-up]] which was interested in urban development issues. Realising that I need to put a better structure to this pursuit, I followed it by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I looked at elementary education sector in India with a specific focus on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act, 2009. 
 
 -----
 I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on October 14, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. Occasionally, I am active on [[http://twitter.com/shekhar_m][twitter]]. 
@@ -56,10 +56,10 @@ In the initial stages, I reviewed government documents to understand the statuto
 *** Effect of name order in Senate roll call voting pattern
 Under Professor Pablo Montagnes, I am analysing the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
 
-Using senator and congress fixed effects, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also get signal from
+Using combined fixed effects at the senator level and at the congress level, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also get signal from
 the way in which senators from her party have already voted.
 
-Besides doing the stata analysis, I also wrote perl scripts to extract senate and house roll-call data from 1940 onwards into a analysable data set.
+Besides doing the stata analysis, I also wrote perl scripts to extract senate and house roll-call data from 1940 into an analysable data set.
 
 -----
 * Papers
@@ -81,10 +81,10 @@ If you are looking to create a website which goes beyond text/html/css requireme
 If you look into government data developing countries, chances are you regularly come across data with spelling and naming inconsistencies. Google Refine helps you solve that problem. There are other ways in which people have gotten around this problem (reclink command in stata, Prof Bhavnani wrote an [[http://www.rikhilbhavnani.com/RB-AMIN.exe%20documentation.pdf][application]]). I have not tried those other ways. Besides, this one has the google name behind it.
 
 *** [[http://www.frontlinesms.com/][FrontlineSMS]]
-There are lot of SMS server offerings out there. One has to pay for them and be sure of what she wants. On top of that, those services usually require you to have access to internet - a luxury not easily available in developing countries. FrontlineSMS is a tool that allows you to create and manage common SMS activities such as making announcements, conducting polls and sending automatic replies to incoming SMS. Potentially a great tool to collect data from the field. All one needs is a laptop and a mobile phone. 
+There are lot of SMS server offerings out there. One has to pay for them and be sure of what she wants. On top of that, those services usually require you to have access to internet - a luxury not easily available in developing countries. FrontlineSMS allows you to create and manage common SMS activities such as making announcements, conducting polls and sending automatic replies to incoming SMS. Potentially, a great tool to collect data from the field. All one needs is a laptop and a mobile phone. 
 
 *** [[http://www.ushahidi.com][Ushahidi]]
-A part of me feels that crowdsourcing is going to be the way to collect data in the near future. Think any kind of issues ([[http://votereport.pk/][election violations]], [[http://www.prijavikorupcija.org/][transparency]], etc.)  getting reported live and coming up on a map and all of that in a crowd sourced manner. Ushahidi will be at the forefront of enabling that. 
+Crowdsourcing is going to be the way to collect data in the near future. Think many kind of issues ([[http://votereport.pk/][election violations]], [[http://www.prijavikorupcija.org/][transparency]], etc.)  getting reported live and coming up on a map in a crowd sourced manner. Ushahidi will enable that. 
 
 *** [[http://www.gnu.org/software/emacs/][Emacs]] plus [[http://orgmode.org/][Org-Mode]]
 These tools have a little steep learning curve but once you cross it, they are addictive! I use emacs to write and edit: assignments, papers, presentations, latex files, scripts, anything and everything. One can open multiple files in the same window and then compile them from there itself. 
@@ -94,16 +94,16 @@ This website was completely built in emacs and org-mode.
 
 ----- 
 * Scripts 
-Here you will find a few basic scripts that I put together (copied and modified from internet) to clean data that was needed in our research. Feel free to use them, send some more my way if you have them.  
-Most scripts that we write have already been written by someone at someplace. No point in reinventing the wheel. Hopefully this list will grow with time. 
+Here you will find a few basic scripts that I put together (copied and modified from internet) to clean data that was needed in our research. Feel free to use them. Send some more my way if you have them.  
+Most scripts that we write have already been written by someone. No point in reinventing the wheel. Hopefully this list will grow with time. 
 
 *** Perl Scripts
 a. Convert from pdf to text\\
-Copying text from Pdf is easy but if one has to do it for multiple files and multiple pages this can be slow, painful and boring. [[http://shekhar.me/scripts/createpdf2txt.pl][This]] small script automates it. \\
+Copying text from pdf is easy. But if one has to do it for multiple files and multiple pages it can be slow, painful and boring. [[http://shekhar.me/scripts/createpdf2txt.pl][This]] small script automates it. \\
 
 b. Convert from text to csv\\
-One needs to know how to handle [[perldoc.perl.org/perlre.html][regular expressions]] in Perl to do this (if one wants to use this file, she will have to change the regular expression for sure). [[http://shekhar.me/scripts/createtxt2csv.pl][This]] script reads the text file line by line and puts the content in the required CSV format. \\
+One needs to know how to handle [[perldoc.perl.org/perlre.html][regular expressions]] in perl to do this (if one wants to use this code, she will have to change the regular expression for sure). [[http://shekhar.me/scripts/createtxt2csv.pl][This]] script reads the text file line by line and puts the content in the required csv format. \\
 
 *** Stata Scripts
-Writing "for loops" in stata is cumbersome. [[http://shekhar.me/scripts/multiplesheets2singledataset.do][Here]] is a stata file in which I read specific cells from the multiple tabs of the same excel and append them into a single dataset. 
+Writing "for loops" in stata is cumbersome. [[http://shekhar.me/scripts/multiplesheets2singledataset.do][Here]] is a stata file in which I read specific cells from the multiple tabs of the same excel file and then append them into a single dataset. 
 -----
