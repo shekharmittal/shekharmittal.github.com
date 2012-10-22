@@ -26,19 +26,15 @@
     <li><a href="#outline-container-3">Papers</a></li>
     <li><a href="#outline-container-4">Tools</a></li>
     <li><a href="#outline-container-5">Scripts</a></li>
-    <li><a href="http://shekhar.me/resume/resume.pdf">Resume</a></li>
-
   </ul>
 #+END_HTML
-
-
 -----
 * About
 I am a Master of Public Policy student at [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]], Chicago. My expected graduation date is June 2013. I have been working under [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] at Booth Graduate School of Business since April, 2012. I have also been a graduate research assistant for [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Professor Pablo Montagnes]] at Harris School of Public Policy since January, 2012. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.
 
-I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. I then moved to a [[http://praja.in][start-up]] which was interested in urban development issues. Most of my time here was spent on building our online platform and collaborating with citizen groups who could potentially use our platform. I followed it by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I worked on the elementary education sector in India with a focus on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act, 2009. 
+I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. I then moved to a [[http://praja.in][start-up]] which was interested in urban development issues. Most of my time here was spent on building our online platform and collaborating with citizen groups who could potentially use our platform. I followed it by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I worked on the elementary education sector in India with a focus on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act, 2009. 
 
 -----
 I am available at [[mailto:shekhar@uchicago.edu][shekhar.at.uchicago.dot.edu]] and [[mailto:shekhar.mittal@gmail.com][shekhar.dot.mittal.at.gmail.dot.com]]. My resume last updated on October 21, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. Occasionally, I am active on [[http://twitter.com/shekhar_m][twitter]]. 
@@ -59,7 +55,7 @@ In the initial stages, I reviewed government documents to understand the statuto
 Under Professor Pablo Montagnes, I am analysing the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
 
 Using combined fixed effects at the senator level and at the congress level, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also get signal from
-the way in which senators from her party have already voted.
+the way in which senators from her party have already voted (bandwagon effect).
 
 Besides doing the stata analysis, I also wrote perl scripts to extract senate and house roll-call data from 1940 into an analysable data set.
 
