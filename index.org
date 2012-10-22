@@ -26,20 +26,22 @@
     <li><a href="#outline-container-3">Papers</a></li>
     <li><a href="#outline-container-4">Tools</a></li>
     <li><a href="#outline-container-5">Scripts</a></li>
+    <li><a href="http://shekhar.me/resume/resume.pdf">Resume</a></li>
+
   </ul>
 #+END_HTML
 
 
 -----
 * About
-I am a Master of Public Policy student in [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]], Chicago. My expected graduation date is June 2013. I have been working under [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] at Booth Graduate School of Business since April, 2012. I have also been a graduate research assistant for [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Professor Pablo Montagnes]] at Harris School of Public Policy since January, 2012. 
+I am a Master of Public Policy student at [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]], Chicago. My expected graduation date is June 2013. I have been working under [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] at Booth Graduate School of Business since April, 2012. I have also been a graduate research assistant for [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Professor Pablo Montagnes]] at Harris School of Public Policy since January, 2012. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.
 
 I am from India. I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. I then moved to a [[http://praja.in][start-up]] which was interested in urban development issues. Most of my time here was spent on building our online platform and collaborating with citizen groups who could potentially use our platform. I followed it by a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I worked on the elementary education sector in India with a focus on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act, 2009. 
 
 -----
-I am available at [[mailto:shekhar@uchicago.edu][shekhar.at.uchicago.dot.edu]] and [[mailto:shekhar.mittal@gmail.com][shekhar.dot.mittal.at.gmail.dot.com]]. My resume last updated on October 14, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. Occasionally, I am active on [[http://twitter.com/shekhar_m][twitter]]. 
+I am available at [[mailto:shekhar@uchicago.edu][shekhar.at.uchicago.dot.edu]] and [[mailto:shekhar.mittal@gmail.com][shekhar.dot.mittal.at.gmail.dot.com]]. My resume last updated on October 21, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. Occasionally, I am active on [[http://twitter.com/shekhar_m][twitter]]. 
 * Research
 *** Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers
 I am involved in this project under Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]]. \\
@@ -63,30 +65,29 @@ Besides doing the stata analysis, I also wrote perl scripts to extract senate an
 
 -----
 * Papers
-Working paper: [[http://shekhar.me/papers/nameorder.pdf][“What’s in a name? Eﬀect of name order in Senate roll call”]], Dan Magleby, Shekhar Mittal and Pablo Montagnes, September 2012.\\
-
 Short working paper: [[http://shekhar.me/papers/distance.pdf][“Distance as an instrument for measuring centralized control in government schools”]], Shekhar Mittal, December 2012.\\
+
+Research design as part of course-work: [[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], May 2012.\\
 
 Policy memo: [[http://shekhar.me/papers/viewpoint10.pdf][“Reservation in Private Schools under the Right to Education Act: Model for Implementation”]], Shekhar Mittal and Parth J Shah, December 2010.\\
 
-Research design as part of course-work: [[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], May 2012.\\
 -----
 * Tools
 I don't claim to be a computer science nerd but from time to time I wonder if there was a better way to do the task that I was performing. This page is for people like me. Here, I list tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They made my work efficient and fun. If you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools had it not been for my computer sciency geeky friends.) 
 
-*** [[http://drupal.org/][Drupal]]
+*** Drupal ([[http://drupal.org/][Link]])
 If you are looking to create a website which goes beyond text/html/css requirements, drupal is it. A lot of times one needs to include functionalities which are complicated but fairly common. Think integrating google maps, blogs, forums, wikis, anything and everything into one website. Chances are that you will find a module in Drupal which suits your needs closely.
 
-*** [[http://code.google.com/p/google-refine/][Google Refine]]
+*** Google Refine ([[http://code.google.com/p/google-refine/][Link]])
 If you look into government data developing countries, chances are you regularly come across data with spelling and naming inconsistencies. Google Refine helps you solve that problem. There are other ways in which people have gotten around this problem (reclink command in stata, Prof Bhavnani wrote an [[http://www.rikhilbhavnani.com/RB-AMIN.exe%20documentation.pdf][application]]). I have not tried those other ways. Besides, this one has the google name behind it.
 
-*** [[http://www.frontlinesms.com/][FrontlineSMS]]
+*** FrontlineSMS ([[http://www.frontlinesms.com/][Link]])
 There are lot of SMS server offerings out there. One has to pay for them and be sure of what she wants. On top of that, those services usually require you to have access to internet - a luxury not easily available in developing countries. FrontlineSMS allows you to create and manage common SMS activities such as making announcements, conducting polls and sending automatic replies to incoming SMS. Potentially, a great tool to collect data from the field. All one needs is a laptop and a mobile phone. 
 
-*** [[http://www.ushahidi.com][Ushahidi]]
+*** Ushahidi ([[http://www.ushahidi.com][Link]])
 Crowdsourcing is going to be the way to collect data in the near future. Think many kind of issues ([[http://votereport.pk/][election violations]], [[http://www.prijavikorupcija.org/][transparency]], etc.)  getting reported live and coming up on a map in a crowd sourced manner. Ushahidi will enable that. 
 
-*** [[http://www.gnu.org/software/emacs/][Emacs]] plus [[http://orgmode.org/][Org-Mode]]
+*** Emacs ([[http://www.gnu.org/software/emacs/][Link]]) plus Org-Mode ([[http://orgmode.org/][Link]])
 These tools have a little steep learning curve but once you cross it, they are addictive! I use emacs to write and edit: assignments, papers, presentations, latex files, scripts, anything and everything. One can open multiple files in the same window and then compile them from there itself. 
 Mouse becomes redundant. Org-mode allows you to create to-do lists, track agendas, create text files and then very easily export them to other formats such as latex, pdfs and htmls. 
 
@@ -98,12 +99,12 @@ Here you will find a few basic scripts that I put together (copied and modified 
 Most scripts that we write have already been written by someone. No point in reinventing the wheel. Hopefully this list will grow with time. 
 
 *** Perl Scripts
-a. Convert from pdf to text\\
-Copying text from pdf is easy. But if one has to do it for multiple files and multiple pages it can be slow, painful and boring. [[http://shekhar.me/scripts/createpdf2txt.pl][This]] small script automates it. \\
+a. Convert from pdf to text ([[http://shekhar.me/scripts/createpdf2txt.pl][Download]])\\
+Copying text from pdf is easy. But if one has to do it for multiple files and multiple pages it can be slow, painful and boring. This small script automates it. \\
 
-b. Convert from text to csv\\
-One needs to know how to handle [[perldoc.perl.org/perlre.html][regular expressions]] in perl to do this (if one wants to use this code, she will have to change the regular expression for sure). [[http://shekhar.me/scripts/createtxt2csv.pl][This]] script reads the text file line by line and puts the content in the required csv format. \\
+b. Convert from text to csv ([[http://shekhar.me/scripts/createtxt2csv.pl][Download]])\\
+One needs to know how to handle [[perldoc.perl.org/perlre.html][regular expressions]] in perl to do this (if one wants to use this code, she will have to change the regular expression for sure). This script reads the text file line by line and puts the content in the required csv format. \\
 
-*** Stata Scripts
-Writing "for loops" in stata is cumbersome. [[http://shekhar.me/scripts/multiplesheets2singledataset.do][Here]] is a stata file in which I read specific cells from the multiple tabs of the same excel file and then append them into a single dataset. 
+*** Stata Scripts 
+Writing "for loops" in stata is cumbersome. Here ([[http://shekhar.me/scripts/multiplesheets2singledataset.do][download]]) is a stata file in which I read specific cells from the multiple tabs of the same excel file and then append them into a single dataset. 
 -----
