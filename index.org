@@ -26,6 +26,7 @@
     <li><a href="#outline-container-3">Papers</a></li>
     <li><a href="#outline-container-4">Tools</a></li>
     <li><a href="#outline-container-5">Scripts</a></li>
+    <a href="./resume/resume.pdf">Resume</a>
   </ul>
 #+END_HTML
 -----
