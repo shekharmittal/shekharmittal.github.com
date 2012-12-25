@@ -66,7 +66,7 @@ Besides doing the stata analysis, I also wrote perl scripts to extract senate an
 
 -----
 * Papers
-Short working paper: [[http://shekhar.me/papers/distance.pdf][“Distance as an instrument for measuring centralized control in government schools”]], Shekhar Mittal, December 2012.\\
+Short working paper: "Distance as an instrument for measuring centralized control in government schools", Shekhar Mittal, December 2012.\\
 
 Research design as part of course-work: [[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], May 2012.\\
 
