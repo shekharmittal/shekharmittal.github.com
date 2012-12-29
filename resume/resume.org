@@ -71,19 +71,17 @@ Courses Taken: Mathematics I/II/III, Discrete Mathematics and Design of Algorith
 \flushleft
 Graduate Research Assistant to Professor Marianne Bertrand \hfill
 \textsc{\normalsize April 2012 -- Present}\\
-[[http://www.chicagobooth.edu/faculty/bio.aspx?person_id%3D12824551424][Booth Graduate School of Business]], University of Chicago \\
-\emph{Measuring performance and analysing time-use of Indian
-Administrative Service (IAS) officers.}
+[[http://www.chicagobooth.edu/faculty/bio.aspx?person_id%3D12824551424][Booth School of Business]], University of Chicago \\
+\emph{Evaluation of Right to Public Service Schemes}
+- Travelled to Karnataka to understand the design and implementation of the Right to Public Services Act. Interacted with all the government level stakeholders and visited various government offices.
+- Developed and piloted a survey questionnaire which captured the experience and perception of citizens who availed the services that are covered under the Act.
 - Undertook a field trip to Bihar, India to understand the time-use of district magistrates and to understand the bureaucratic setup at the district level.
-- Developed time-use tracking forms and survey questionnaires for the district magistrates.
 - Formulated questionnaires under the Right to Information Act to get data which could help measure the performance of district level IAS officers as part of their statutory \& regulatory responsibilities.
 - Reviewed government documents to understand the statutory and
   developmental responsibilities of IAS officers and narrowed the
   research problem.
-- Wrote perl scripts to get election data for national and state level
-  elections (1980 onwards) in India.
 
-\vspace{0.6em}
+\vspace{0.5em}
 
 Graduate Research Assistant to Professor Pablo Montagnes \hfill
 \textsc{April 2012 -- Present}\\
@@ -94,7 +92,7 @@ Graduate Research Assistant to Professor Pablo Montagnes \hfill
    senators' last names on Senate roll call. 
  - Wrote Perl scripts to extract senate and house roll-call data starting from 1940 into a analysable data set.
 
-\vspace{0.6em}
+\vspace{0.5em}
 
 Graduate Research Assistant to Professor Pablo Montagnes \hfill
 \textsc{January 2012 -- March 2012}\\
@@ -105,8 +103,8 @@ Graduate Research Assistant to Professor Pablo Montagnes \hfill
   set.
 - Wrote Stata programs to clean and analyze data.
 
-\vspace{0.6em}
-
+\vspace{0.5em}
+\pagebreak
 Graduate Research Assistant to A. Rupa Datta, Vice President and
 Senior Fellow  \hfill \textsc{October 2011 -- March 2012}\\
 [[http://www.norc.org/Research/Projects/Pages/national-survey-of-early-care-and-education.aspx][National Opinion Research Centre]] at the University of Chicago \\ 
@@ -185,14 +183,14 @@ mandate.\\
 | 2008-2010 | /Founder/, [[http://soapboxblr.wordpress.com/][Soapbox]], Bangalore, India                          |
 |      2008 | /Co-Lead/, [[http://cleannandihills.wordpress.com/][Clean Nandi Green Nandi]], Bangalore, India          |
 | 2006-2007 | /Chairman/, IEEE Student Branch, Delhi College of Engineering |
-
-
+\pagebreak
 * Skills
 *Highly Proficient*: Stata, Drupal, C/C++, MySQL, Emacs, Linux (Ubuntu) \\
 *Proficient*: R, Perl \\
 *Experienced*: Matlab, Latex, Python, HTML, CSS \\
-\pagebreak
+
 * References
+\vspace{-0.2in}
 #+latex: \begin{multicols}{2}
 - *Marianne Bertrand, Chris P. Dialynas Professor of Economics* \\
   Booth School of Business, University of Chicago \\ 

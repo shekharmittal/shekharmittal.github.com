@@ -44,10 +44,16 @@ I received an undergraduate degree in Computer Engineering from University of De
 -----
 I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on October 21, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. Occasionally, I am active on [[http://twitter.com/shekhar_m][twitter]]. 
 * Research
-*** Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers
-I am involved in this project under Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]]. \\
+*** Evaluation of Right to Public Service Schemes
+Under Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]], I am evaluating the implementation of Right to Public Services Act that has been introduced in Karnataka, India.
 
-Currently, I am looking at how public grievance systems in various states of India can be used to measure the effectiveness of district level IAS officers.
+I went to Karnataka to understand the design and implementation of the Act. I interacted with all the government level stakeholders and visited various government offices to witness the ground realities. 
+
+I developed and piloted a survey questionnaire which captured the experience and perception of citizens who avail the services that are covered under the Act. 
+
+
+*** Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers
+This project was also with Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]]. \\
 
 I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. Here, I shadowed 2 district magistrates for a week each for as much time as they permitted. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
 
