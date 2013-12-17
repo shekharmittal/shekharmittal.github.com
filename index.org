@@ -35,27 +35,31 @@
 -----
 * About
 #+html: <img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="320" Hspace="20" Vspace = "20"/>
-I am a Master of Public Policy student at [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]]. My expected graduation date is June 2013. I have been working with [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] at The University of Chicago Booth School of Business since April, 2012. I have also been a graduate research assistant for [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Professor Pablo Montagnes]] at Harris School of Public Policy since January, 2012. 
+I am a first year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. At Anderson, I have had the opportunity to assist [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg][Prof Romain Wacziarg]] and [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/leamer][Prof Edward Leamer]] over the summer of 2013. In the first year, my focus has been on completing the mandatory coursework with very little time for active research.  
+
+While at Harris, I worked with [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] at The University of Chicago Booth School of Business. The details of my work with her can be found in the research section. I have also been a graduate research assistant for [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Professor Pablo Montagnes]] at Harris School of Public Policy. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.
 
 I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. I then moved to a [[http://praja.in][start-up]] which was interested in urban development issues. Most of my time here was spent on building our online platform and collaborating with citizen groups who could potentially use the platform. I followed it with a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I focussed on the elementary education sector with an emphasis on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act. 
 
 -----
-I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on October 21, 2012 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. Occasionally, I am active on [[http://twitter.com/shekhar_m][twitter]]. 
+I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on December 17, 2013 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I am active on [[http://twitter.com/shekhar_m][twitter]]. 
 * Research
 *** Evaluation of Right to Public Service Schemes
-Under Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]], I am evaluating the implementation of Right to Public Services Act that has been introduced in Karnataka, India.
+With Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]], I am evaluating the implementation of Right to Public Services Act that has been introduced in Karnataka, India. We are currently analysing the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests.  
 
-I went to Karnataka to understand the design and implementation of the Act. I interacted with all the government level stakeholders and visited various government offices to witness the ground realities. 
+I went to Karnataka to understand the design and implementation of the Act. I interacted with all the government level stakeholders and visited various government offices to witness the ground realities. I developed and piloted a survey questionnaire which captured the experience and perception of citizens who avail the services that are covered under the Act. 
 
-I developed and piloted a survey questionnaire which captured the experience and perception of citizens who avail the services that are covered under the Act. 
+*** World Values Survey
+With Prof Romain Wacziarg, I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions.
+
+*** Extreme coefficients of 2^k regressions
+Under Prof Ed Leamer, I used Matlab to implement possible methods to efficiently determine extreme coefficients of 2k regressions. We also tried to develop efficient techniques to identify all the orthants of 2k regression coefficients.
 
 
 *** Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers
-This project was also with Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]]. \\
-
-I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. Here, I shadowed 2 district magistrates for a week each for as much time as they permitted. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
+This project was also with Professor Marianne Bertrand and Professor Paul Niehaus. I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. Here, I shadowed 2 district magistrates for a week each for as much time as they permitted. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
 
 I developed time-use tracking forms and survey questionnaires for the district magistrates, formulated Right to Information Act questionnaires to get data which could help measure the performance of district level IAS oﬃcers as part of their statutory & regulatory responsibilities.
 
@@ -63,7 +67,7 @@ In the initial stages, I reviewed government documents to understand the statuto
 
 
 *** Effect of name order in Senate roll call voting pattern
-Under Professor Pablo Montagnes, I am analysing the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
+Under Professor Pablo Montagnes, I analysed the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
 
 Using combined fixed effects at the senator level and at the congress level, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also get signal from
 the way in which senators from her party have already voted (bandwagon effect).

@@ -1,0 +1,256 @@
+% Created 2013-12-17 Tue 18:21
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{soul}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\usepackage[left=2cm,top=1.8cm,right=2cm,bottom=2cm,nohead,nofoot]{geometry}
+\usepackage{bbding}
+\usepackage{multicol}
+\usepackage{eurosym}
+\usepackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[small,compact]{titlesec}
+\usepackage{fontspec,xltxtra,xunicode}
+\setromanfont[Mapping=tex-text]{Linux Libertine O}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Linux Libertine O}
+\setmonofont[Scale=MatchLowercase]{MgOpen Modata}
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+\pagestyle{empty}
+\usepackage{enumitem}
+\setitemize[0]{leftmargin=*,itemsep=0pt,parsep=1pt,topsep=1pt}
+\providecommand{\alert}[1]{\textbf{#1}}
+
+\title{}
+\author{}
+\date{}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs Org-mode version 7.8.02}}
+
+\begin{document}
+
+
+
+
+\begin{centering} \par{
+                {\sffamily\huge Shekhar Mittal}\\
+\vspace{1em}
+{\normalsize 740 Weyburn Terrace, Apartment C12, Los Angeles, CA 90024\\
+{\Phone} 734-780-1120   {\Envelope} \href{mailto:shekhar.mittal.2017@anderson.ucla.edu}{shekhar.mittal.2017@anderson.ucla.edu}  {\HandRight} \href{http://shekhar.me}{http://shekhar.me}\\}}
+\end{centering}
+
+\titleformat{\section}
+        {\scshape\Large\raggedright}{}{0em}{}[\color{black}\titlerule]
+\titleformat{\subsection}
+        {\large\raggedright}{}{0em}{}[\color{black}]
+\titlespacing{\section}{0pt}{2pt}{3pt}
+\renewcommand{\labelitemi}{$\bullet$}
+
+
+
+\section{Education}
+\label{sec-1}
+
+\flushleft
+University of California, Los Angeles, \textbf{Anderson School of Management} \hfill September 2013 -- Current\\
+Ph.D., Global Economics and Management\\
+Areas of Interest: Political Economy, Development, India.\\
+\vspace{1em}
+University of Chicago, \textbf{Harris School of Public Policy} \hfill September 2011 -- June 2013\\
+Awards: Dean's Scholarship (2011-2013), J.N. Tata Scholar (2011), K.C. Mahindra Scholar (2011)\\
+\vspace{1em}
+Delhi University, \textbf{Delhi College of Engineering}, New Delhi, India \hfill August 2003 -- June 2007\\ 
+Bachelor of Engineering in \emph{Computer Engineering}, \emph{First Division}\\
+\section{Research Experience}
+\label{sec-2}
+
+\flushleft
+Graduate Research Assistant to Professor Romain Wacziarg \hfill
+\textsc{\normalsize July 2013 -- September 2013}\\
+\href{http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program}{Anderson School of Management}, University of California, Los Angeles \\
+\emph{Cultural distances using World Values Survey}
+\begin{itemize}
+\item Developed multiple indices to measure cultural distance across countries, using the World Values Survey data.
+\item Measured the correlation between cultural and genetic distance across countries.
+\end{itemize}
+
+\vspace{0.5em}
+
+Graduate Research Assistant to Professor Edward Leamer \hfill
+\textsc{\normalsize July 2013 -- September 2013}\\
+\href{http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program}{Anderson School of Management}, University of California, Los Angeles \\
+\emph{Estimated extreme coefficients of $2^k$ regressions}
+\begin{itemize}
+\item Implemented possible methods to efficiently determine extreme coefficients of $2^k$ regressions.
+\item Developed efficient techniques to identify all the orthants of $2^k$ regression coefficients.
+\end{itemize}
+\vspace{0.5em}
+Graduate Research Assistant to Professor Marianne Bertrand \hfill
+\textsc{\normalsize April 2012 -- June 2013}\\
+\href{http://www.chicagobooth.edu/faculty/bio.aspx?person_id%3D12824551424}{Booth School of Business}, University of Chicago \\
+\emph{Evaluation of Right to Public Service Schemes}
+\begin{itemize}
+\item Travelled to Karnataka to understand the design and implementation of the Right to Public Services Act. Interacted with all the government level stakeholders and visited various government offices.
+\item Developed and piloted a survey questionnaire which captured the experience and perception of citizens who availed the services that are covered under the Act.
+\item Undertook a field trip to Bihar, India to understand the time-use of district magistrates and to understand the bureaucratic setup at the district level.
+\item Formulated questionnaires under the Right to Information Act to get data which could help measure the performance of district level IAS officers as part of their statutory \& regulatory responsibilities.
+\item Reviewed government documents to understand the statutory and
+  developmental responsibilities of IAS officers and narrowed the
+  research problem.
+\end{itemize}
+\vspace{0.5em}
+Graduate Research Assistant to Professor Pablo Montagnes \hfill
+\textsc{April 2012 -- December 2012}\\
+\href{http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes}{Harris School of Public Policy}, University of Chicago \\ 
+\emph{Effect of name order in senate roll call voting pattern.}
+\begin{itemize}
+\item Using combined fixed effects at the senator level and at the
+   congress level, evaluated the impact of alphabetical order of the
+   senators' last names on Senate roll call.
+\item Wrote Perl scripts to extract senate and house roll-call data starting from 1940 into a analysable data set.
+\end{itemize}
+\vspace{0.5em}
+\pagebreak
+Graduate Research Assistant to Professor Pablo Montagnes \hfill
+\textsc{January 2012 -- March 2012}\\
+\href{http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes}{Harris School of Public Policy}, University of Chicago \\ 
+\emph{Understanding voting patterns for simultaneous elections in a given year at the precinct level}
+\begin{itemize}
+\item Designed a Stata program that extracts information from the Cook
+  County precinct level election results into a user-friendly data
+  set.
+\item Wrote Stata programs to clean and analyze data.
+\end{itemize}
+\vspace{0.5em}
+Graduate Research Assistant to A. Rupa Datta, Vice President and
+Senior Fellow  \hfill \textsc{October 2011 -- March 2012}\\
+\href{http://www.norc.org/Research/Projects/Pages/national-survey-of-early-care-and-education.aspx}{National Opinion Research Centre} at the University of Chicago \\ 
+\emph{National Survey of Early Care and Education}
+\begin{itemize}
+\item Managed the IRB approval process for all the school districts
+  from which the survey intended to interview early care providers.
+\item Did quality control of the survey responses received from the field.
+\end{itemize}
+\section{Writing}
+\label{sec-3}
+
+
+\begin{itemize}
+\item \emph{Short Paper:} ``Distance as an instrument for measuring
+  centralized control in government schools'', December 2012.
+
+  \emph{Summary:} The paper shows that the quality and outcomes of a
+  government school deteriorate as the distance of a government school
+  from district headquarters increases. This effect is absent in
+  private schools which tend to be decentralized.
+\item \emph{Research Design as part of course-work:} ``Indian Politics: The
+  Criminals beget Criminals Effect'', May 2012.
+ 
+  \emph{Summary:} I create a research design that uses regression
+  discontinuity design to prove that when the incumbent in Indian
+  elections is a criminal, and the opposition party thinks that there
+  is a high probability of the election being close, the opposition
+  party also tends to nominate a criminal.
+
+  \emph{Link:} \href{http://shekhar.me/papers/pe_researchdesign.pdf}{http://shekhar.me/papers/pe\_researchdesign.pdf}
+\end{itemize}
+
+
+\begin{itemize}
+\item \emph{Policy Memo:} ``Reservation in Private Schools under the Right
+  to Education Act: Model for Implementation'', Shekhar Mittal and
+  Parth J Shah, December 2010.
+
+  \emph{Summary:} The memo suggests a model for effective
+  implementation of a specific provision under the Right of Children
+  to Free and Compulsory Education Act, 2009. \\
+
+  \emph{Link:} \href{http://shekhar.me/papers/viewpoint10.pdf}{http://shekhar.me/papers/viewpoint10.pdf}
+\end{itemize}
+\section{Professional Experience}
+\label{sec-4}
+
+\flushleft
+\textbf{Senior Campaign Associate}, \emph{\href{http://ccs.in}{Centre for Civil Society}}, New Delhi,
+India \hfill \textsc{\normalsize July 2010 -- June 2011}\\
+\begin{itemize}
+\item Co-ordinated the School Voucher for Girls project that piloted school choice in India.
+\item Did advocacy and research on the Right of Children to Free and Compulsory Education Act 2009, a law that aims to implement elementary education as a fundamental right.
+\item Worked on development and expansion of the \href{http://righttoeducation.in}{Right to Education Portal}, which tracked all the happenings in India related to the Right to Education Act. \\
+\end{itemize}
+\vspace{0.6em}
+
+\textbf{Program Manager and Platform Engineer}, \emph{\href{http://praja.in}{Praja}}, Bangalore, India
+ \hfill \textsc{\normalsize August 2009 -- June 2010}\\
+\begin{itemize}
+\item Spearheaded MobiliCity, a citizen-driven initiative to understand problems and discuss solutions for sustainable transportation in Bangalore.
+\item Formulated associations with various organisations, including Loksatta - a local political party and Bangalore Metropolitan Transport Corporation - the local public transport authority, to use Praja as the platform  to run their campaigns.
+\item Led development efforts for Praja’s web-portal by exploiting social media, open source technologies, and mobile platforms.\\
+\end{itemize}
+\vspace{0.6em}
+
+\textbf{Software Engineer}, \emph{\href{http://www.cisco.com}{Cisco Systems}}, Bangalore, India \hfill \textsc{\normalsize July 2007 -- July 2009}\\
+\section{Other Activities}
+\label{sec-5}
+
+
+\begin{center}
+\begin{tabular}{rp{16cm}}
+      2010  &  \emph{Co-Lead}, \href{http://praja.in/en/bwi}{Bangalore Water Index}, Bangalore, India                   \\
+ 2009-2010  &  \emph{Mentor, Drupal Technology}, \href{http://steptwo.co.in/}{Step2}                                    \\
+ 2008-2010  &  \emph{Founder}, \href{http://soapboxblr.wordpress.com/}{Soapbox}, Bangalore, India                       \\
+      2008  &  \emph{Co-Lead}, \href{http://cleannandihills.wordpress.com/}{Clean Nandi Green Nandi}, Bangalore, India  \\
+ 2006-2007  &  \emph{Chairman}, IEEE Student Branch, Delhi College of Engineering                                       \\
+\end{tabular}
+\end{center}
+\section{Skills}
+\label{sec-6}
+
+\textbf{Highly Proficient}: Stata, Drupal, C, Emacs, Linux (Ubuntu) \\
+\textbf{Proficient}: Matlab, MySQL, R, Perl \\
+\textbf{Experienced}: Latex, Python, HTML, CSS \\
+\section{References}
+\label{sec-7}
+
+\vspace{-0.2in}
+\begin{multicols}{2}
+\begin{itemize}
+\item \textbf{Romain Wacziarg, Professor of Economics} \\
+Anderson School of Management, UCLA \\ 
+  110 Westwood Plaza\\
+  Los Angeles, CA 90077\\
+  \href{mailto:wacziarg@ucla.edu}{wacziarg@ucla.edu}\\
+\item \textbf{Marianne Bertrand, Chris P. Dialynas Professor of Economics} \\
+Booth School of Business, University of Chicago \\ 
+  5807 South Woodlawn Avenue\\
+  Chicago, IL 60637-1610\\
+  \href{mailto:marianne.bertrand@chicagobooth.edu}{marianne.bertrand@chicagobooth.edu}\\
+\item \textbf{B. Pablo Montagnes, Assistant Professor} \\
+Harris School of Public Policy, University of Chicago \\
+  1155 E. 60th Street\\
+  Chicago, IL 60637\\
+  \href{mailto:pmontagnes@uchicago.edu}{pmontagnes@uchicago.edu}\\
+\item \textbf{Dan Black, Professor}\\
+Harris School of Public Policy, University of Chicago \\
+  1155 E. 60th Street\\
+  Chicago, IL 60637\\
+  \href{mailto:danblack@uchicago.edu}{danblack@uchicago.edu}\\
+\end{itemize}
+\end{multicols}
+
+\end{document}
