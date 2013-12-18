@@ -1,4 +1,4 @@
-#+TITLE:   Shekhar Mittal
+﻿#+TITLE:   Shekhar Mittal
 #+AUTHOR:    Shekhar Mittal
 #+EMAIL:     shekhar.mittal@gmail.com
 #+DESCRIPTION: Shekhar's personal website
@@ -45,6 +45,7 @@ I received an undergraduate degree in Computer Engineering from University of De
 
 -----
 I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on December 17, 2013 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I am active on [[http://twitter.com/shekhar_m][twitter]]. 
+
 * Research
 *** Evaluation of Right to Public Service Schemes
 With Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]], I am evaluating the implementation of Right to Public Services Act that has been introduced in Karnataka, India. We are currently analysing the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests.  
