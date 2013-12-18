@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.5.28)  17 DEC 2013 18:26
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.5.28)  17 DEC 2013 19:06
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -851,8 +851,7 @@ Package: enumitem 2009/05/18 v2.2 Customized lists
 \labelindent=\skip55
 \enit@outerparindent=\dimen133
 \enitdp@desc=\count126
-)
-No file resume.aux.
+) (./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -869,6 +868,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 45.
+
 (/usr/share/texmf-texlive/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -889,13 +889,12 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
+ (./resume.out)
+(./resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
 \AtBeginShipoutBox=\box63
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 *geometry detected driver: pdftex*
 -------------------- Geometry parameters
@@ -1046,16 +1045,12 @@ Overfull \hbox (23.19519pt too wide) in paragraph at lines 213--220
  [] 
  []
 
-[2] [3] (./resume.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[2] [3] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 11415 strings out of 494665
- 172900 string characters out of 1166477
+ 11422 strings out of 494665
+ 172968 string characters out of 1166477
  280858 words of memory out of 3000000
- 14422 multiletter control sequences out of 15000+50000
+ 14423 multiletter control sequences out of 15000+50000
  11147 words of font info for 61 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
  38i,8n,48p,482b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
