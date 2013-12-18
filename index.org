@@ -1,4 +1,4 @@
-﻿#+TITLE:   Shekhar Mittal
+#+TITLE:   Shekhar Mittal
 #+AUTHOR:    Shekhar Mittal
 #+EMAIL:     shekhar.mittal@gmail.com
 #+DESCRIPTION: Shekhar's personal website
