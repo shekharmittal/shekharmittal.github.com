@@ -53,14 +53,14 @@
 
 * Education
 \flushleft
-University of California, Los Angeles, \textbf{Anderson School of Management} \hfill September 2013 -- Current\\
+University of California, Los Angeles, \textbf{Anderson School of Management} \hfill \textsc{\normalsize September 2013 -- Current}\\
 Ph.D., Global Economics and Management\\
 Areas of Interest: Political Economy, Development, India.\\
 \vspace{1em}
-University of Chicago, \textbf{Harris School of Public Policy} \hfill September 2011 -- June 2013\\
+University of Chicago, \textbf{Harris School of Public Policy} \hfill \textsc{\normalsize September 2011 -- June 2013}\\
 Awards: Dean's Scholarship (2011-2013), J.N. Tata Scholar (2011), K.C. Mahindra Scholar (2011)\\
 \vspace{1em}
-Delhi University, \textbf{Delhi College of Engineering}, New Delhi, India \hfill August 2003 -- June 2007\\ 
+Delhi University, \textbf{Delhi College of Engineering}, New Delhi, India \hfill \textsc{\normalsize August 2003 -- June 2007}\\ 
 Bachelor of Engineering in \emph{Computer Engineering}, \emph{First Division}\\
 
 * Research Experience
