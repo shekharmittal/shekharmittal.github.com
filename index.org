@@ -95,7 +95,8 @@ Economic History - Western Europe (Ec-242): "[[http://shekhar.me/presentations/e
 Economic History - US (Ec-241): "[[http://shekharmittal.info/presentations/ec241_presentation_shekhar.pdf][History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India by Abhijit Banerjee and Lakshmi Iyer]]", Shekhar Mittal, Fall 2014.\\
 
 Summer paper presentation: "[[http://shekharmittal.info/presentations/shekhar%20mittal_summer_paper_talk.pdf][Does performance of local representatives matter? Case study of Mumbai]]", Shekhar Mittal, Summer 2014.\\
------ 
+-----
+
 * Tools
 I don't claim to be a computer science nerd but from time to time I wonder if there was a better way to do the task that I was performing. This page is for people like me. Here, I list tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They made my work efficient and fun. If you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools had it not been for my computer sciency geeky friends.) 
 
