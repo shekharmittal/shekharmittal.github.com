@@ -31,24 +31,24 @@
 -----
 * About
 #+html: <img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="320" Hspace="20" Vspace = "20"/>
-I am a third year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. At Anderson, I have had the opportunity to assist [[http://www.anderson.ucla.edu/faculty/paola.giuliano/][Prof Paola Giuliano]], [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/leamer][Prof Edward Leamer]] and [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg][Prof Romain Wacziarg]] over the summers of 2013 and 2014. 
+I am a third year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.
 
 I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. I then moved to a [[http://praja.in][start-up]] which was interested in urban development issues. Most of my time here was spent on building our online platform and collaborating with citizen groups who could potentially use the platform. I followed it with a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I focussed on the elementary education sector with an emphasis on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act. 
 
 -----
-I am available at shekhar.dot.mittal.2015.at.anderson.dot.ucla.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated in April, 2015 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I am active on [[http://twitter.com/shekhar_m][twitter]]. 
+I am available at shekhar.dot.mittal.dot.2017.at.anderson.dot.ucla.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated in April, 2015 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I am active on [[http://twitter.com/shekhar_m][twitter]]. 
 
 * Research
 
 ** Research Experience
 *** World Values Survey
-With Prof Romain Wacziarg, I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions. This distance measure was calculated in euclidian, manhattan and FST form.
+With [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg][Prof Romain Wacziarg]], I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions. This distance measure was calculated in euclidian, manhattan and FST form.
 *** United States Historical Election Returns
-With Prof Paola Giuliano, I use the US historical election returns data to calculate the county level vote share of all political parties from 1824 to 1968.\\
+With [[http://www.anderson.ucla.edu/faculty/paola.giuliano/][Prof Paola Giuliano]], I use the US historical election returns data to calculate the county level vote share of all political parties from 1824 to 1968.\\
 *** Extreme coefficients of 2^k regressions
-Under Prof Ed Leamer, I used Matlab to implement possible methods to efficiently determine extreme coefficients of 2k regressions. We also tried to develop efficient techniques to identify all the orthants of 2k regression coefficients.
+Under [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/leamer][Prof Ed Leamer]], I used Matlab to implement possible methods to efficiently determine extreme coefficients of 2k regressions. We also tried to develop efficient techniques to identify all the orthants of 2k regression coefficients.
 
 *** Evaluation of Right to Public Service Schemes
 With [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]], I evaluated the implementation of Right to Public Services Act that was introduced in Karnataka, India. We analysed the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests. (The report is available upon request)
@@ -65,7 +65,7 @@ In the initial stages, I reviewed government documents to understand the statuto
 
 
 *** Effect of name order in Senate roll call voting pattern
-Under Professor Pablo Montagnes, I analysed the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
+Under [[https://sites.google.com/a/uchicago.edu/bpmontagnes/home][Professor Pablo Montagnes]], I analysed the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. \\
 
 Using combined fixed effects at the senator level and at the congress level, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also get signal from
 the way in which senators from her party have already voted (bandwagon effect).
