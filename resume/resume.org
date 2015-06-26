@@ -62,12 +62,10 @@ Bachelor of Engineering in \emph{Computer Engineering}, \emph{First Division}\\
 * Research
 ** *\emph{Ongoing}*
 \flushleft
-\emph{Fracking and farmers of Rajasthan} \hfill \textsc{\normalsize Summer 2015 onwards}\\
-\vspace{0.5em}
 \emph{Improving public service performance via electoral channels}, \hfill \textsc{\normalsize March 2015 onwards}\\
 with Professor Aprajit Mahajan\\
 \vspace{0.5em}
-\emph{Polarization during recessions} \hfill \textsc{\normalsize January 2015 onwards}\\
+\emph{Caste, gender bias and dowry} \hfill \textsc{\normalsize Summer 2015 onwards}\\
 with Professor Paola Giuliano\\
 \vspace{0.5em}
 Graduate Research Assistant to Professor Romain Wacziarg \hfill
@@ -80,6 +78,8 @@ Graduate Research Assistant to Professor Romain Wacziarg \hfill
 Graduate Research Assistant to Professor Paola Giuliano \hfill
 \textsc{\normalsize Summer 2015}\\
 [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Anderson School of Management]], University of California, Los Angeles \\
+\emph{United States Historical Election Returns}
+- Calculated county level vote shares of all political parties from 1824 to 1968.
 \vspace{0.5em}
 
 ** *\emph{Past Experience}*
@@ -126,6 +126,8 @@ Senior Fellow  \hfill \textsc{October 2011 -- March 2012}\\
   from which the survey intended to interview early care providers.
 
 * Writing
+- \emph{Summer Paper:} ``Mumbai municipal elections: Performance 
+  and incumbency effect analysis", Summer 2014.
 
 - \emph{Short Paper:} ``Distance as an instrument for measuring
   centralized control in government schools'', December 2012.
@@ -135,7 +137,7 @@ Senior Fellow  \hfill \textsc{October 2011 -- March 2012}\\
   from district headquarters increases. This effect is absent in
   private schools which tend to be decentralized.
 
-- \emph{Research Design as part of course-work:} "Indian Politics: The
+- \emph{Research Design as part of course-work:} ``Indian Politics: The
   Criminals beget Criminals Effect", May 2012.
  
   \emph{Summary:} I create a research design that uses regression

@@ -30,7 +30,7 @@
 #+END_HTML
 -----
 * About
-#+html: <img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="320" Hspace="20" Vspace = "20"/>
+#+html: <img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="300" Hspace="20" Vspace = "20"/>
 I am a third year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.

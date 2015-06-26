@@ -1,4 +1,4 @@
-% Created 2015-04-29 Wed 17:25
+% Created 2015-06-26 Fri 12:48
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -71,15 +71,10 @@ Bachelor of Engineering in \emph{Computer Engineering}, \emph{First Division}\\
 \subsection{\textbf{\emph{Ongoing}}}
 \label{sec-2-1}
 \flushleft
-\begin{enumerate}
-\item \emph{Fracking and farmers of Rajasthan} \hfill \textsc{\normalsize Summer 2015 onwards}\\
-\label{sec-2-1-0-1}
-\vspace{0.5em}
-\item \emph{Improving public service performance via electoral channels}, \hfill \textsc{\normalsize March 2015 onwards}\\
-\label{sec-2-1-0-2}
+\emph{Improving public service performance via electoral channels}, \hfill \textsc{\normalsize March 2015 onwards}\\
 with Professor Aprajit Mahajan\\
 \vspace{0.5em}
-\emph{Polarization during recessions} \hfill \textsc{\normalsize January 2015 onwards}\\
+\emph{Caste, gender bias and dowry} \hfill \textsc{\normalsize Summer 2015 onwards}\\
 with Professor Paola Giuliano\\
 \vspace{0.5em}
 Graduate Research Assistant to Professor Romain Wacziarg \hfill
@@ -94,8 +89,11 @@ Graduate Research Assistant to Professor Romain Wacziarg \hfill
 Graduate Research Assistant to Professor Paola Giuliano \hfill
 \textsc{\normalsize Summer 2015}\\
 \href{http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program}{Anderson School of Management}, University of California, Los Angeles \\
+\emph{United States Historical Election Returns}
+\begin{itemize}
+\item Calculated county level vote shares of all political parties from 1824 to 1968.
+\end{itemize}
 \vspace{0.5em}
-\end{enumerate}
 
 \subsection{\textbf{\emph{Past Experience}}}
 \label{sec-2-2}
@@ -153,8 +151,10 @@ from which the survey intended to interview early care providers.
 
 \section{Writing}
 \label{sec-3}
-
 \begin{itemize}
+\item \emph{Summer Paper:} ``Mumbai municipal elections: Performance 
+and incumbency effect analysis", Summer 2014.
+
 \item \emph{Short Paper:} ``Distance as an instrument for measuring
 centralized control in government schools'', December 2012.
 
@@ -163,7 +163,7 @@ government school deteriorate as the distance of a government school
 from district headquarters increases. This effect is absent in
 private schools which tend to be decentralized.
 
-\item \emph{Research Design as part of course-work:} "Indian Politics: The
+\item \emph{Research Design as part of course-work:} ``Indian Politics: The
 Criminals beget Criminals Effect", May 2012.
 
 \emph{Summary:} I create a research design that uses regression
