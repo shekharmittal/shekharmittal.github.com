@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>Shekhar Mittal</title>
-<!-- 2015-06-26 Fri 11:53 -->
+<!-- 2015-06-26 Fri 11:49 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="description" content="Shekhar's personal website"
@@ -188,14 +188,11 @@ I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.do
 <div id="outline-container-sec-2" class="outline-2">
 <h2 id="sec-2">Research</h2>
 <div class="outline-text-2" id="text-2">
-</div><div id="outline-container-sec-2-1" class="outline-3">
-<h3 id="sec-2-1">Research Assistant</h3>
-<div class="outline-text-3" id="text-2-1">
-</div><div id="outline-container-sec-2-1-1" class="outline-4">
-<h4 id="sec-2-1-1">Evaluation of Right to Public Service Schemes</h4>
-<div class="outline-text-4" id="text-2-1-1">
+</div><div id="outline-container-sec-2-0-1" class="outline-4">
+<h4 id="sec-2-0-1">Evaluation of Right to Public Service Schemes</h4>
+<div class="outline-text-4" id="text-2-0-1">
 <p>
-With Professor Marianne Bertrand and <a href="http://dss.ucsd.edu/~pniehaus/">Professor Paul Niehaus</a>, I evaluated the implementation of Right to Public Services Act that was introduced in Karnataka, India. We analysed the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests.  
+With Professor Marianne Bertrand and <a href="http://dss.ucsd.edu/~pniehaus/">Professor Paul Niehaus</a>, I am evaluating the implementation of Right to Public Services Act that has been introduced in Karnataka, India. We are currently analysing the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests.  
 </p>
 
 <p>
@@ -204,27 +201,28 @@ I went to Karnataka to understand the design and implementation of the Act. I in
 </div>
 </div>
 
-<div id="outline-container-sec-2-1-2" class="outline-4">
-<h4 id="sec-2-1-2">World Values Survey</h4>
-<div class="outline-text-4" id="text-2-1-2">
+<div id="outline-container-sec-2-0-2" class="outline-4">
+<h4 id="sec-2-0-2">World Values Survey</h4>
+<div class="outline-text-4" id="text-2-0-2">
 <p>
-With Prof Romain Wacziarg, I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions. This distance measure was calculated in euclidian, manhattan and FST form.
+With Prof Romain Wacziarg, I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions.
 </p>
 </div>
 </div>
 
-<div id="outline-container-sec-2-1-3" class="outline-4">
-<h4 id="sec-2-1-3">Extreme coefficients of 2<sup>k</sup> regressions</h4>
-<div class="outline-text-4" id="text-2-1-3">
+<div id="outline-container-sec-2-0-3" class="outline-4">
+<h4 id="sec-2-0-3">Extreme coefficients of 2<sup>k</sup> regressions</h4>
+<div class="outline-text-4" id="text-2-0-3">
 <p>
 Under Prof Ed Leamer, I used Matlab to implement possible methods to efficiently determine extreme coefficients of 2k regressions. We also tried to develop efficient techniques to identify all the orthants of 2k regression coefficients.
 </p>
 </div>
 </div>
 
-<div id="outline-container-sec-2-1-4" class="outline-4">
-<h4 id="sec-2-1-4">Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers</h4>
-<div class="outline-text-4" id="text-2-1-4">
+
+<div id="outline-container-sec-2-0-4" class="outline-4">
+<h4 id="sec-2-0-4">Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers</h4>
+<div class="outline-text-4" id="text-2-0-4">
 <p>
 This project was also with Professor Marianne Bertrand and Professor Paul Niehaus. I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. Here, I shadowed 2 district magistrates for a week each for as much time as they permitted. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
 </p>
@@ -240,9 +238,9 @@ In the initial stages, I reviewed government documents to understand the statuto
 </div>
 
 
-<div id="outline-container-sec-2-1-5" class="outline-4">
-<h4 id="sec-2-1-5">Effect of name order in Senate roll call voting pattern</h4>
-<div class="outline-text-4" id="text-2-1-5">
+<div id="outline-container-sec-2-0-5" class="outline-4">
+<h4 id="sec-2-0-5">Effect of name order in Senate roll call voting pattern</h4>
+<div class="outline-text-4" id="text-2-0-5">
 <p>
 Under Professor Pablo Montagnes, I analysed the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. <br  />
 </p>
@@ -257,7 +255,6 @@ Besides doing the stata analysis, I also wrote perl scripts to extract senate an
 </p>
 
 <hr  />
-</div>
 </div>
 </div>
 </div>
@@ -402,7 +399,7 @@ Writing "for loops" in stata is cumbersome. Here (<a href="http://shekhar.me/scr
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2015-06-26 Fri 11:53</p>
+<p class="date">Created: 2015-06-26 Fri 11:49</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

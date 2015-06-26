@@ -48,6 +48,8 @@
 \renewcommand{\labelitemi}{$\bullet$}
 
 #+end_latex
+
+
 * Education
 \flushleft
 University of California, Los Angeles, \textbf{Anderson School of Management} \hfill \textsc{\normalsize September 2013 -- Current}\\
@@ -59,31 +61,18 @@ Awards: Dean's Scholarship (2011-2013), J.N. Tata Scholar (2011), K.C. Mahindra 
 \vspace{1em}
 Delhi University, \textbf{Delhi College of Engineering}, New Delhi, India \hfill \textsc{\normalsize August 2003 -- June 2007}\\ 
 Bachelor of Engineering in \emph{Computer Engineering}, \emph{First Division}\\
-* Research
-** *\emph{Ongoing}*
+
+* Research Experience
 \flushleft
-\emph{Fracking and farmers of Rajasthan} \hfill \textsc{\normalsize Summer 2015 onwards}\\
-\vspace{0.5em}
-\emph{Improving public service performance via electoral channels}, \hfill \textsc{\normalsize March 2015 onwards}\\
-with Professor Aprajit Mahajan\\
-\vspace{0.5em}
-\emph{Polarization during recessions} \hfill \textsc{\normalsize January 2015 onwards}\\
-with Professor Paola Giuliano\\
-\vspace{0.5em}
 Graduate Research Assistant to Professor Romain Wacziarg \hfill
-\textsc{\normalsize Summer 2013, Summer 2015}\\
+\textsc{\normalsize July 2013 -- September 2013}\\
 [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Anderson School of Management]], University of California, Los Angeles \\
 \emph{Cultural distances using World Values Survey}
 - Developed multiple indices to measure cultural distance across countries, using the World Values Survey data. 
 - Measured the correlation between cultural and genetic distance across countries.
-\vspace{0.5em}
-Graduate Research Assistant to Professor Paola Giuliano \hfill
-\textsc{\normalsize Summer 2015}\\
-[[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Anderson School of Management]], University of California, Los Angeles \\
+
 \vspace{0.5em}
 
-** *\emph{Past Experience}*
-\flushleft
 Graduate Research Assistant to Professor Edward Leamer \hfill
 \textsc{\normalsize July 2013 -- September 2013}\\
 [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Anderson School of Management]], University of California, Los Angeles \\
@@ -98,8 +87,11 @@ Graduate Research Assistant to Professor Marianne Bertrand \hfill
 - Travelled to Karnataka to understand the design and implementation of the Right to Public Services Act. Interacted with all the government level stakeholders and visited various government offices.
 - Developed and piloted a survey questionnaire which captured the experience and perception of citizens who availed the services that are covered under the Act.
 - Undertook a field trip to Bihar, India to understand the time-use of district magistrates and to understand the bureaucratic setup at the district level.
+- Formulated questionnaires under the Right to Information Act to get data which could help measure the performance of district level IAS officers as part of their statutory \& regulatory responsibilities.
+- Reviewed government documents to understand the statutory and
+  developmental responsibilities of IAS officers and narrowed the
+  research problem.
 \vspace{0.5em}
-\pagebreak
 Graduate Research Assistant to Professor Pablo Montagnes \hfill
 \textsc{April 2012 -- December 2012}\\
 [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Harris School of Public Policy]], University of Chicago \\ 
@@ -109,6 +101,7 @@ Graduate Research Assistant to Professor Pablo Montagnes \hfill
    senators' last names on Senate roll call. 
  - Wrote Perl scripts to extract senate and house roll-call data starting from 1940 into a analysable data set.
 \vspace{0.5em}
+\pagebreak
 Graduate Research Assistant to Professor Pablo Montagnes \hfill
 \textsc{January 2012 -- March 2012}\\
 [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Harris School of Public Policy]], University of Chicago \\ 
@@ -124,6 +117,7 @@ Senior Fellow  \hfill \textsc{October 2011 -- March 2012}\\
 \emph{National Survey of Early Care and Education}
 - Managed the IRB approval process for all the school districts
   from which the survey intended to interview early care providers.
+- Did quality control of the survey responses received from the field.
 
 * Writing
 
@@ -143,7 +137,8 @@ Senior Fellow  \hfill \textsc{October 2011 -- March 2012}\\
   elections is a criminal, and the opposition party thinks that there
   is a high probability of the election being close, the opposition
   party also tends to nominate a criminal.
-  [[http://shekharmittal.info/papers/pe_researchdesign.pdf][Link]] 
+
+  \emph{Link:} [[http://shekhar.me/papers/pe_researchdesign.pdf]]
 
 
 - \emph{Policy Memo:} ``Reservation in Private Schools under the Right
@@ -152,51 +147,62 @@ Senior Fellow  \hfill \textsc{October 2011 -- March 2012}\\
 
   \emph{Summary:} The memo suggests a model for effective
   implementation of a specific provision under the Right of Children
-  to Free and Compulsory Education Act, 2009. [[http://shekharmittal.info/papers/viewpoint10.pdf][Link]]
+  to Free and Compulsory Education Act, 2009. \\
 
-* Teaching
-*UCLA Anderson*: Teaching Assistant - Managerial Economics (MBA, 2014-2015)
+  \emph{Link:} http://shekhar.me/papers/viewpoint10.pdf
 
 * Professional Experience
 \flushleft
 *Senior Campaign Associate*, /[[http://ccs.in][Centre for Civil Society]]/, New Delhi,
 India \hfill \textsc{\normalsize July 2010 -- June 2011}\\
+- Co-ordinated the School Voucher for Girls project that piloted school choice in India. 
+- Did advocacy and research on the Right of Children to Free and Compulsory Education Act 2009, a law that aims to implement elementary education as a fundamental right. 
+- Worked on development and expansion of the [[http://righttoeducation.in][Right to Education Portal]], which tracked all the happenings in India related to the Right to Education Act. \\
 \vspace{0.6em}
+
 *Program Manager and Platform Engineer*, /[[http://praja.in][Praja]]/, Bangalore, India
  \hfill \textsc{\normalsize August 2009 -- June 2010}\\
+- Spearheaded MobiliCity, a citizen-driven initiative to understand problems and discuss solutions for sustainable transportation in Bangalore. 
+- Formulated associations with various organisations, including Loksatta - a local political party and Bangalore Metropolitan Transport Corporation - the local public transport authority, to use Praja as the platform  to run their campaigns. 
+- Led development efforts for Praja’s web-portal by exploiting social media, open source technologies, and mobile platforms.\\ 
 \vspace{0.6em}
+
 *Software Engineer*, /[[http://www.cisco.com][Cisco Systems]]/, Bangalore, India \hfill \textsc{\normalsize July 2007 -- July 2009}\\
 
+* Other Activities
+#+ATTR_LaTeX: align=rp{16cm}
+|      2010 | /Co-Lead/, [[http://praja.in/en/bwi][Bangalore Water Index]], Bangalore, India            |
+| 2009-2010 | /Mentor, Drupal Technology/, [[http://steptwo.co.in/][Step2]]                            |
+| 2008-2010 | /Founder/, [[http://soapboxblr.wordpress.com/][Soapbox]], Bangalore, India                          |
+|      2008 | /Co-Lead/, [[http://cleannandihills.wordpress.com/][Clean Nandi Green Nandi]], Bangalore, India          |
+| 2006-2007 | /Chairman/, IEEE Student Branch, Delhi College of Engineering |
 * Skills
 *Highly Proficient*: Stata, Drupal, C, Emacs, Linux (Ubuntu) \\
 *Proficient*: Matlab, MySQL, R, Perl \\
 *Experienced*: Latex, Python, HTML, CSS \\
 
-* Personal
-*Citizenship*: Indian \\
-*Languages*: Hindi (native), English (highly proficient)\\
 * References
 \vspace{-0.2in}
 #+latex: \begin{multicols}{2}
 - *Romain Wacziarg, Professor of Economics* \\
   Anderson School of Management, UCLA \\ 
-  110 Westwood Plaza,o C-510 Entrepreneurs Hall\\ 
-  Los Angeles, CA - 90095-1481\\
+  110 Westwood Plaza\\
+  Los Angeles, CA 90077\\
   [[mailto:wacziarg@ucla.edu][wacziarg@ucla.edu]]\\
-- *Paola Giuliano, Assistant Professor of Economics* \\
-  Anderson School of Management, UCLA \\ 
-  110 Westwood Plaza, C-517 Entrepreneurs Hall\\ 
-  Los Angeles, CA - 90095-1481\\
-  [[mailto:paola.giuliano@anderson.ucla.edu][paola.giuliano@anderson.ucla.edu]]\\
-- *Aprajit Mahajan, Associate Professor* \\
-  Dept. of ARE, UC Berkeley \\
-  219 Giannini Hall\\
-  Berkeley, CA 94720-3310\\
-  [[mailto:aprajit@gmail.com][aprajit@gmail.com]]\\
-- *Miriam Golden, Professor of Political Science*\\
-  UC Los Angeles \\
-  3262 Bunche Hall\\
-  Los Angeles, CA - 90095-1481\\
-  [[mailto:golden@ucla.edu][golden@ucla.edu]]
+- *Marianne Bertrand, Chris P. Dialynas Professor of Economics* \\
+  Booth School of Business, University of Chicago \\ 
+  5807 South Woodlawn Avenue\\
+  Chicago, IL 60637-1610\\
+  [[mailto:marianne.bertrand@chicagobooth.edu][marianne.bertrand@chicagobooth.edu]]\\
+- *B. Pablo Montagnes, Assistant Professor* \\
+  Harris School of Public Policy, University of Chicago \\
+  1155 E. 60th Street\\
+  Chicago, IL 60637\\
+  [[mailto:pmontagnes@uchicago.edu][pmontagnes@uchicago.edu]]\\  
+- *Dan Black, Professor*\\
+  Harris School of Public Policy, University of Chicago \\
+  1155 E. 60th Street\\
+  Chicago, IL 60637\\
+  [[mailto:danblack@uchicago.edu][danblack@uchicago.edu]]\\
 #+latex: \end{multicols}
 

@@ -7,35 +7,31 @@
 #+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc author:nil creator:nil postamble:nil
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
-#+LINK_UP:   
-#+LINK_HOME: 
-#+STYLE:<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-#+STYLE:<link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
-#+STYLE: <LINK href="css/stylesheet.css" rel="stylesheet" type="text/css">
-#+STYLE: <script src="javascripts/jquery.js" type="text/javascript"></script>
-#+STYLE: <script src="javascripts/jquery.hashchange.js" type="text/javascript"></script>
-#+STYLE: <script src="javascripts/jquery.easytabs.js" type="text/javascript"></script>  
-#+STYLE: <script type="text/javascript"> $(document).ready(function(){ $('#tab-container').easytabs();});</script>
-# End:
 
 #+BEGIN_HTML
+<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
+<LINK href="css/stylesheet.css" rel="stylesheet" type="text/css">
+<script src="javascripts/jquery.js" type="text/javascript"></script>
+<script src="javascripts/jquery.hashchange.js" type="text/javascript"></script>
+<script src="javascripts/jquery.easytabs.js" type="text/javascript"></script>  
+<script type="text/javascript"> $(document).ready(function(){ $('#tab-container').easytabs();});</script>
 
 <div id="tab-container">
   <ul>
     <li><a href="#outline-container-1">About</a></li>
     <li><a href="#outline-container-2">Research</a></li>
     <li><a href="#outline-container-3">Papers</a></li>
-    <li><a href="#outline-container-4">Tools</a></li>
-    <li><a href="#outline-container-5">Scripts</a></li>
-    <a
-  href="./resume/resume.pdf">Resume</a>
-
+    <li><a href="#outline-container-4">Presentations</a></li>
+    <li><a href="#outline-container-5">Tools</a></li>
+    <li><a href="#outline-container-6">Scripts</a></li>
+    <a href="./resume/resume.pdf">Resume</a>
   </ul>
 #+END_HTML
 -----
 * About
 #+html: <img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="320" Hspace="20" Vspace = "20"/>
-I am a first year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. At Anderson, I have had the opportunity to assist [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg][Prof Romain Wacziarg]] and [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/leamer][Prof Edward Leamer]] over the summer of 2013. In the first year, my focus has been on completing the mandatory coursework with very little time for active research.  
+I am a third year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. At Anderson, I have had the opportunity to assist [[http://www.anderson.ucla.edu/faculty/paola.giuliano/][Prof Paola Giuliano]], [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/leamer][Prof Edward Leamer]] and [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg][Prof Romain Wacziarg]] over the summers of 2013 and 2014. 
 
 While at Harris, I worked with [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] at The University of Chicago Booth School of Business. The details of my work with her can be found in the research section. I have also been a graduate research assistant for [[http://harrisschool.uchicago.edu/directory/faculty/b-pablo_montagnes][Professor Pablo Montagnes]] at Harris School of Public Policy. 
 
@@ -47,17 +43,18 @@ I received an undergraduate degree in Computer Engineering from University of De
 I am available at shekhar.at.uchicago.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My resume last updated on December 17, 2013 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I am active on [[http://twitter.com/shekhar_m][twitter]]. 
 
 * Research
+
+** Research Experience
 *** Evaluation of Right to Public Service Schemes
-With Professor Marianne Bertrand and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]], I am evaluating the implementation of Right to Public Services Act that has been introduced in Karnataka, India. We are currently analysing the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests.  
+With [[http://faculty.chicagobooth.edu/marianne.bertrand/index.html][Professor Marianne Bertrand]] and [[http://dss.ucsd.edu/~pniehaus/][Professor Paul Niehaus]], I evaluated the implementation of Right to Public Services Act that was introduced in Karnataka, India. We analysed the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests.  
 
 I went to Karnataka to understand the design and implementation of the Act. I interacted with all the government level stakeholders and visited various government offices to witness the ground realities. I developed and piloted a survey questionnaire which captured the experience and perception of citizens who avail the services that are covered under the Act. 
 
 *** World Values Survey
-With Prof Romain Wacziarg, I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions.
+With Prof Romain Wacziarg, I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions. This distance measure was calculated in euclidian, manhattan and FST form.
 
 *** Extreme coefficients of 2^k regressions
 Under Prof Ed Leamer, I used Matlab to implement possible methods to efficiently determine extreme coefficients of 2k regressions. We also tried to develop efficient techniques to identify all the orthants of 2k regression coefficients.
-
 
 *** Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers
 This project was also with Professor Marianne Bertrand and Professor Paul Niehaus. I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. Here, I shadowed 2 district magistrates for a week each for as much time as they permitted. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
@@ -77,13 +74,28 @@ Besides doing the stata analysis, I also wrote perl scripts to extract senate an
 
 -----
 * Papers
-Short working paper: "Distance as an instrument for measuring centralized control in government schools", Shekhar Mittal, December 2012.\\
+Summer paper:\\
+"[[http://shekharmittal.info/papers/shekhar_mittal_summer_paper_2014.pdf][Mumbai municipal elections: Performance and incumbency effect analysis]]", Shekhar Mittal, Summer 2014.\\
 
-Research design as part of course-work: [[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], May 2012.\\
+Short independent paper:\\
+"[[http://shekharmittal.info/papers/shekhar_mittal_ind_study_3003.pdf][Distance as an instrument for measuring centralized control in government schools]]", Shekhar Mittal, December 2012.\\
 
-Policy memo: [[http://shekhar.me/papers/viewpoint10.pdf][“Reservation in Private Schools under the Right to Education Act: Model for Implementation”]], Shekhar Mittal and Parth J Shah, December 2010.\\
+Research designs/proposals as part of course-work:\\
+"[[http://shekharmittal.info/papers/research_proposal_ec242_shekhar_mittal.pdf][Partition of India: Long term effects of selection in migration]]", Shekhar Mittal, Winter 2015.\\
+"[[http://shekharmittal.info/papers/india_partition_ec241_shekhar%20mittal.pdf][Economic consequences of partition of British India]]",Shekhar Mittal, Fall 2014.\\
+[[http://shekhar.me/papers/pe_researchdesign.pdf]["Indian Politics: The Criminals beget Criminals Effect"]], Shekhar Mittal, May 2012.\\
+
+Policy memo: \\
+"[[http://shekhar.me/papers/viewpoint10.pdf][Reservation in Private Schools under the Right to Education Act: Model for Implementation]]", Shekhar Mittal and Parth J Shah, December 2010.\\
 
 -----
+* Graduate presentations
+Economic History - Western Europe (Ec-242): "[[http://shekhar.me/presentations/ec242_presentation_shekhar.pdf][The long term returns to early childhood education: Evidence from the first US Kindergartens, by Francisco Haimovich]]", Shekhar Mittal, Winter 2015.\\
+
+Economic History - US (Ec-241): "[[http://shekharmittal.info/presentations/ec241_presentation_shekhar.pdf][History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India by Abhijit Banerjee and Lakshmi Iyer]]", Shekhar Mittal, Fall 2014.\\
+
+Summer paper presentation: "[[http://shekharmittal.info/presentations/shekhar%20mittal_summer_paper_talk.pdf][Does performance of local representatives matter? Case study of Mumbai]]", Shekhar Mittal, Summer 2014.\\
+----- 
 * Tools
 I don't claim to be a computer science nerd but from time to time I wonder if there was a better way to do the task that I was performing. This page is for people like me. Here, I list tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They made my work efficient and fun. If you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools had it not been for my computer sciency geeky friends.) 
 
