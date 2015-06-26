@@ -1,4 +1,4 @@
-% Created 2015-06-26 Fri 12:48
+% Created 2015-06-26 Fri 13:17
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -205,7 +205,7 @@ India \hfill \textsc{\normalsize July 2010 -- June 2011}\\
 \textbf{Highly Proficient}: Stata, Drupal, C, Emacs, Linux (Ubuntu) \\
 \textbf{Proficient}: Matlab, MySQL, R, Perl \\
 \textbf{Experienced}: Latex, Python, HTML, CSS \\
-
+\pagebreak
 \section{Personal}
 \label{sec-7}
 \textbf{Citizenship}: Indian \\

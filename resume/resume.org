@@ -173,7 +173,7 @@ India \hfill \textsc{\normalsize July 2010 -- June 2011}\\
 *Highly Proficient*: Stata, Drupal, C, Emacs, Linux (Ubuntu) \\
 *Proficient*: Matlab, MySQL, R, Perl \\
 *Experienced*: Latex, Python, HTML, CSS \\
-
+\pagebreak
 * Personal
 *Citizenship*: Indian \\
 *Languages*: Hindi (native), English (highly proficient)\\
