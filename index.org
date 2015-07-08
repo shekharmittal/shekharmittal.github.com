@@ -18,7 +18,7 @@
     <li><a href="#outline-container-sec-1">About</a></li>
     <li><a href="#outline-container-sec-2">Research</a></li>
     <li><a href="#outline-container-sec-3">Papers</a></li>
-    <li><a href="#outline-container-sec-4">Presentations</a></li>
+    <li><a href="#outline-container-sec-4">Talks</a></li>
     <li><a href="#outline-container-sec-5">Tools</a></li>
     <li><a href="#outline-container-sec-6">Scripts</a></li>
     <a href="./resume/resume.pdf">Resume</a>
