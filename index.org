@@ -38,6 +38,27 @@ I am available at shekhar.dot.mittal.dot.2017.at.anderson.dot.ucla.dot.edu and s
 
 * Research
 
+** Ongoing Research
+*** Where's Value? Using VAT data to improve compliance (with Prof. Aprajit Mahajan)
+The power to tax lies at the core of state development (Besley and Persson (2013)). In this project we aim to deepen
+our understanding of taxation in developing countries by examining large-scale tax data from the government of Delhi.
+The data analysis will have two purposes -- first to answer first-order questions of academic and policy import and
+second to help design interventions with the tax authority aimed at increasing state revenue.
+It has been argued that a key advantage of value-added tax is the emphasis it lays on creation of paper trails through
+tax returns. However, there is little evidence on how such a system actually plays out in a developing economy with
+low compliance.
+Tax officials from India (and other countries) argue that firms within a VAT system collude to create fictitious paper
+trails. This has led to emergence of "bogus" firms who issue fake receipts to genuine firms enabling them to evade
+taxes. A key challenge in improving tax compliance then is to identify such bogus firms. A second challenge is to
+develop approaches that will create greater participation by firms in the tax system.
+We intend to use a large-scale data set containing the universe of VAT statements for the Indian state of Delhi over
+five years to explore these and related issues. In the first instance, the plan is to use machine learning algorithms on
+network data to develop a predictive algorithm for “bogus” firms (based on a training data set with identified fraudulent
+firms) that will then be more likely to be audited by the tax authority. A second aim of the project is to work with the
+tax authority to implement interventions geared towards improving tax compliance along both the extensive (i.e.
+participation) and intensive (i.e. revenues) margins. Finally, we also plan to use policy reforms in a quasi-experimental
+framework to understand how and to what extent paper trails reduce tax evasion.
+*** Information Provision and Participatory Budgeting: Mohalla Sabhas in Delhi
 ** Research Experience
 *** World Values Survey
 With [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg][Prof Romain Wacziarg]], I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions. This distance measure was calculated in euclidian, manhattan and FST form.
