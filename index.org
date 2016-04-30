@@ -20,6 +20,7 @@
     <li><a href="#outline-container-sec-3">Papers</a></li>
     <li><a href="#outline-container-sec-4">Talks</a></li>
     <li><a href="#outline-container-sec-5">Tools</a></li>
+    <a href="http://shiwali.me" target="_blank">My "Intelligent" half</a>
     <li><a href="#outline-container-sec-6">Scripts</a></li>
     <a href="./resume/resume.pdf">CV</a>
   </ul>
