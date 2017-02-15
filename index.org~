@@ -28,7 +28,7 @@
 -----
 * About
 #+html: <img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="300" Hspace="20" Vspace = "20"/>
-I am a fourth year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. 
+I am a third year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.
 
@@ -38,10 +38,11 @@ I received an undergraduate degree in Computer Engineering from University of De
 I am available at shekhar.dot.mittal.dot.2017.at.anderson.dot.ucla.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My CV last updated in March, 2016 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I am active on [[http://twitter.com/shekhar_m][twitter]]. 
 
 * Research
+
 ** Ongoing Research
 *** Where's Value? Using VAT data to improve compliance (with [[https://are.berkeley.edu/~aprajit/][Prof Aprajit Mahajan]])
 *** Information Provision and Participatory Budgeting: Mohalla Sabhas in Delhi (with Prof Aprajit Mahajan, [[http://www.anderson.ucla.edu/degrees/phd/phd-students/gem/fiorin][Stefano Fiorin]])
-** Earlier Research Experience
+** Research Experience
 *** World Values Survey
 With [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg][Prof Romain Wacziarg]], I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions. This distance measure was calculated in euclidian, manhattan and FST form.
 *** United States Historical Election Returns
