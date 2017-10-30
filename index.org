@@ -28,14 +28,14 @@
 -----
 * About
 #+html: <img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="300" Hspace="20" Vspace = "20"/>
-I am a fourth year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. 
+I am a fifth year Ph.D. student in the [[http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program][Global Economics and Management]] program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from [[http://harrisschool.uchicago.edu/][Harris School of Public Policy]] at [[http://www.uchicago.edu/index.shtml][University of Chicago]] in June 2013. 
 
 I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.
 
 I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. I then moved to a [[http://praja.in][start-up]] which was interested in urban development issues. Most of my time here was spent on building our online platform and collaborating with citizen groups who could potentially use the platform. I followed it with a stint at a public policy think-tank - [[http://schoolchoice.in][Center for Civil Society]]. At CCS, I focussed on the elementary education sector with an emphasis on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act. 
 
 -----
-I am available at shekhar.dot.mittal.dot.2017.at.anderson.dot.ucla.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My CV last updated in July, 2017 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I am active on [[http://twitter.com/shekhar_m][twitter]]. 
+I am available at shekhar.dot.mittal.dot.2017.at.anderson.dot.ucla.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My CV last updated in October, 2017 can be found [[http://shekhar.me/resume/resume.pdf][here]]. My linkedin profile can be found [[http://www.linkedin.com/in/shekharmittal][here]]. I (re)tweet [[http://twitter.com/shekhar_m][here]]. 
 
 * Research
 ** Ongoing Research
