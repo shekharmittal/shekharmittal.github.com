@@ -1,424 +1,820 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-<title>Shekhar Mittal</title>
-<!-- 2017-02-14 Tue 19:27 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="generator" content="Org-mode" />
-<meta  name="description" content="Shekhar's personal website"
- />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { color: green; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: visible;
-    padding-top: 1.2em;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
-    padding: 3px;
-    border: 1px solid black;
-  }
-  pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <title>Unique - Responsive vCard Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="Unique - Responsive vCard Template" />
+    <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, Unique, portfolio" />
+    <meta name="author" content="lmtheme" />
+    <link rel="shortcut icon" href="favicon.ico">
 
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.right  { text-align: center;  }
-  th.left   { text-align: center;   }
-  th.center { text-align: center; }
-  td.right  { text-align: right;  }
-  td.left   { text-align: left;   }
-  td.center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara:nth-child(2) { display: inline; }
-  .footpara { display: block; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  /*]]>*/-->
-</style>
-<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
-<LINK href="css/stylesheet.css" rel="stylesheet" type="text/css">
-<script src="javascripts/jquery.js" type="text/javascript"></script>
-<script src="javascripts/jquery.hashchange.js" type="text/javascript"></script>
-<script src="javascripts/jquery.easytabs.js" type="text/javascript"></script>
-<script type="text/javascript"> $(document).ready(function(){ $('#tab-container').easytabs();});</script>
-<script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/normalize.css" type="text/css">
+    <link rel="stylesheet" href="css/animate.css" type="text/css">
+    <link rel="stylesheet" href="css/transition-animations.css" type="text/css">
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/main.css" type="text/css">
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+    <script src="js/jquery-2.1.3.min.js"></script>
+    <script src="js/modernizr.custom.js"></script>
+  </head>
 
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+  <body>
+    <!-- Loading animation -->
+    <div class="preloader">
+      <div class="preloader-animation">
+        <div class="dot1"></div>
+        <div class="dot2"></div>
+      </div>
+    </div>
+    <!-- /Loading animation -->
 
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
+    <div id="page" class="page">
+      <!-- Header -->
+      <header id="site_header" class="header mobile-menu-hide header-color-light">
+        <div class="my-photo tilt-effect">
+          <img src="images/main_photo.jpg" alt="image">
+        </div>
+
+        <div class="site-title-block">
+          <h1 class="site-title">Alex Smith</h1>
+        </div>
+
+        <!-- Navigation -->
+        <div class="site-nav">
+          <!-- Main menu -->
+          <ul id="nav" class="site-main-menu">
+            <li>
+              <a class="pt-trigger" href="#home" data-animation="21"><i class="menu-icon pe-7s-icon pe-7s-home"></i>Home</a><!-- href value = data-id without # of .pt-page. -->
+            </li>
+            <li>
+              <a class="pt-trigger" href="#about_me" data-animation="17"><i class="menu-icon pe-7s-icon pe-7s-user"></i>About me</a>
+            </li>
+            <li>
+              <a class="pt-trigger" href="#resume" data-animation="18"><i class="menu-icon pe-7s-icon pe-7s-id"></i>Resume</a>
+            </li>
+            <li>
+              <a class="pt-trigger" href="#portfolio" data-animation="19"><i class="menu-icon pe-7s-icon pe-7s-portfolio"></i>Portfolio</a>
+            </li>
+            <li>
+              <a class="pt-trigger" href="#contact" data-animation="20"><i class="menu-icon pe-7s-icon pe-7s-mail"></i>Contact</a>
+            </li>
+          </ul>
+          <!-- /Main menu -->
+        </div>
+        <!-- Navigation -->
+      </header>
+      <!-- /Header -->
+
+      <!-- Mobile Header -->
+      <div class="mobile-header mobile-visible">
+        <div class="mobile-logo-container">
+          <div class="mobile-site-title">Alex Smith</div>
+        </div>
+
+        <a class="menu-toggle mobile-visible">
+          <i class="fa fa-bars"></i>
+        </a>
+      </div>
+      <!-- /Mobile Header -->
+
+      <!-- Main Content -->
+      <div id="main" class="site-main">
+        <!-- Page changer wrapper -->
+        <div class="pt-wrapper" style="background-image: url(images/main_bg_light.jpg);">
+          <!-- Subpages -->
+          <div class="subpages">
+
+            <!-- Home Subpage -->
+            <section class="pt-page pt-page-1 section-without-bg section-paddings-0 table" data-id="home">
+              <div class="section-inner">
+                <div class="home-page-block">
+                  <h2>Alex Smith</h2>
+                  <div class="owl-carousel text-rotation">                                    
+                    <div class="item">
+                      <p class="home-page-description">Web Designer</p>
+                    </div>
+                    <div class="item">
+                      <p class="home-page-description">Frontend-developer</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- End of Home Subpage -->
+
+            <!-- About Me Subpage -->
+            <section class="pt-page pt-page-2" data-id="about_me">
+              <div class="border-block-top-110"></div>
+              <div class="section-inner">
+                <div class="section-title-block">
+                  <div class="section-title-wrapper clearfix">
+                    <h2 class="section-title">About Me</h2>
+                    <h5 class="section-description">Artist, Thinker, Creative Doer</h5>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
+                    <div class="my-photo-block tilt-effect">
+                      <img src="images/main_photo.jpg" alt="">
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-6 col-lg-4">
+                    <h3>I am Web Designer @ Company.com</h3>
+                    <p>Praesent ut tortor consectetur, semper sapien non, lacinia augue. Aenean arcu libero, facilisis et nisi non, tempus faucibus tortor. Mauris vel nulla aliquam, pellentesque enim ac, faucibus tortor. Nulla odio nibh, cursus sit amet urna id, dignissim euismod augue.</p>
+                    <p>Duis sollicitudin, libero porttitor rutrum ultrices, turpis lorem fermentum justo, quis ornare augue tortor non est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                  </div>
+
+                  <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
+                    <ul class="info-list">
+                      <li><span class="title">Age</span><span class="value">29</span></li>
+                      <li><span class="title">Residence</span><span class="value">Australia</span></li>
+                      <li><span class="title">Address</span><span class="value">88 Some Street, Some Town</span></li>
+                      <li><span class="title">e-mail</span><span class="value"><a href="mailto:email@example.com">email@example.com</a></span></li>
+                      <li><span class="title">Phone</span><span class="value">+0123 123 456 789</span></li>
+                      <li><span class="title">Freelance</span><span class="value available">Available</span></li>
+                    </ul>
+
+                    <ul class="social-links">
+                      <li><a class="tip social-button" href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li> <!-- Full list of social icons: http://fontawesome.io/icons/#brand -->
+                      <li><a class="tip social-button" href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                      <li><a class="tip social-button" href="#" title="Google Plus"><i class="fa fa-google-plus"></i></a></li>
+                      <li><a class="tip social-button" href="#" title="Youtube"><i class="fa fa-youtube"></i></a></li>
+                      <li><a class="tip social-button" href="#" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+                      <!--<li><a class="tip social-button" href="#" title="last.fm"><i class="fa fa-lastfm"></i></a></li>-->
+                      <!--<li><a class="tip social-button" href="#" title="Dribbble"><i class="fa fa-dribbble"></i></a></li>-->
+                    </ul>
+                  </div>
+                </div>
+
+                <!-- Services block -->
+                <div class="block-title">
+                  <h3>Services</h3>
+                </div>
+
+                <div class="row">
+                  <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <i class="service-icon pe-7s-icon pe-7s-browser"></i>
+                        <h4>Web Design</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <i class="service-icon pe-7s-icon pe-7s-pen"></i>
+                        <h4>Copywriter</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <i class="service-icon pe-7s-icon pe-7s-cart"></i>
+                        <h4>E-Commerce</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <i class="service-icon pe-7s-icon pe-7s-graph1"></i>
+                        <h4>Marketing</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- End of Services block -->
+
+                <!-- Clients block -->
+                <div class="block-title">
+                  <h3>Clients</h3>
+                </div>
+
+                <div class="row">
+                  <div class="col-sm-4 col-md-2 subpage-block">
+                    <div class="client-block">
+                      <a href="#" target="_blank"><img src="images/clients/client_1.png" alt="image"></a>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-2 subpage-block">
+                    <div class="client-block">
+                      <a href="#" target="_blank"><img src="images/clients/client_2.png" alt="image"></a>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-2 subpage-block">
+                    <div class="client-block">
+                      <a href="#" target="_blank"><img src="images/clients/client_3.png" alt="image"></a>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-2 subpage-block">
+                    <div class="client-block">
+                      <a href="#" target="_blank"><img src="images/clients/client_4.png" alt="image"></a>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-2 subpage-block">
+                    <div class="client-block">
+                      <a href="#" target="_blank"><img src="images/clients/client_5.png" alt="image"></a>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-2 subpage-block">
+                    <div class="client-block">
+                      <a href="#" target="_blank"><img src="images/clients/client_6.png" alt="image"></a>
+                    </div>
+                  </div>
+                </div>
+                <!-- End of Clients block -->
+
+                <div class="row">
+                  <div class="col-sm-12 col-md-12 subpage-block">
+                    <div class="block-title">
+                      <h3>Testimonials</h3>
+                    </div>
+                    <div class="testimonials owl-carousel">
+                      <!-- Testimonial 1 -->
+                      <div class="testimonial-item">
+                        <!-- Testimonial Content -->
+                        <div class="testimonial-content">
+                          <div class="testimonial-text">
+                            <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed ipsum sed massa."</p>
+                          </div>
+                        </div>            
+                        <!-- /Testimonial Content -->  
+                        <!-- Testimonial Author -->
+                        <div class="testimonial-credits">
+                          <!-- Picture -->
+                          <div class="testimonial-picture">
+                            <img src="images/testimonials/testimonial_photo_1.jpg" alt="">
+                          </div>              
+                          <!-- /Picture -->
+                          <!-- Testimonial author information -->
+                          <div class="testimonial-author-info">
+                            <p class="testimonial-author">Maria Richardson</p>
+                            <p class="testimonial-firm">Lindsley's Lumber</p>
+                          </div>
+                        </div>
+                        <!-- /Testimonial author information -->               
+                      </div>
+                      <!-- End of Testimonial 1 -->
+
+                      <!-- Testimonial 2 -->
+                      <div class="testimonial-item">
+                        <!-- Testimonial Content -->
+                        <div class="testimonial-content">
+                          <div class="testimonial-text">
+                            <p>"Vivamus porta dapibus tristique. Suspendisse et arcu eget nisi convallis eleifend nec ac lorem."</p>
+                          </div>
+                        </div>            
+                        <!-- /Testimonial Content -->  
+                        <!-- Testimonial Author -->
+                        <div class="testimonial-credits">
+                          <!-- Picture -->
+                          <div class="testimonial-picture">
+                            <img src="images/testimonials/testimonial_photo_2.jpg" alt="">
+                          </div>              
+                          <!-- /Picture -->
+                          <!-- Testimonial author information -->
+                          <div class="testimonial-author-info">
+                            <p class="testimonial-author">John Doe</p>
+                            <p class="testimonial-firm">Apple Inc.</p>
+                          </div>
+                        </div>
+                        <!-- /Testimonial author information -->               
+                      </div>
+                      <!-- End of Testimonial 2 -->
+
+                      <!-- Testimonial 3 -->
+                      <div class="testimonial-item">
+                        <!-- Testimonial Content -->
+                        <div class="testimonial-content">
+                          <div class="testimonial-text">
+                            <p>"Aliquam congue auctor lectus sed fermentum. Nulla ultricies tellus quis sapien lacinia egestas."</p>
+                          </div>
+                        </div>            
+                        <!-- /Testimonial Content -->  
+                        <!-- Testimonial Author -->
+                        <div class="testimonial-credits">
+                          <!-- Picture -->
+                          <div class="testimonial-picture">
+                            <img src="images/testimonials/testimonial_photo_3.jpg" alt="">
+                          </div>              
+                          <!-- /Picture -->
+                          <!-- Testimonial author information -->
+                          <div class="testimonial-author-info">
+                            <p class="testimonial-author">George McQueen</p>
+                            <p class="testimonial-firm">Harmony House</p>
+                          </div>
+                        </div>
+                        <!-- /Testimonial author information -->               
+                      </div>
+                      <!-- End of Testimonial 3 -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Fun facts block -->
+                <div class="block-title">
+                  <h3>Fun Facts</h3>
+                </div>
+
+                <div class="row">
+                  <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="fun-fact-block gray-bg tilt-effect">
+                      <i class="pe-7s-icon pe-7s-smile"></i>
+                      <h4>Happy Clients</h4>
+                      <span class="fun-value">1,024</span>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-3 subpage-block tilt-effect">
+                    <div class="fun-fact-block">
+                      <i class="pe-7s-icon pe-7s-alarm"></i>
+                      <h4>Working Hours</h4>
+                      <span class="fun-value">6,256</span>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-3 subpage-block tilt-effect">
+                    <div class="fun-fact-block gray-bg">
+                      <i class="pe-7s-icon pe-7s-medal"></i>
+                      <h4>Awards Won</h4>
+                      <span class="fun-value">21</span>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-3 subpage-block tilt-effect">
+                    <div class="fun-fact-block">
+                      <i class="pe-7s-icon pe-7s-coffee"></i>
+                      <h4>Coffee Consumed</h4>
+                      <span class="fun-value">20,000</span>
+                    </div>
+                  </div>
+                </div>
+                <!-- End of Fun fucts block -->
+              </div>
+            </section>
+            <!-- End of About Me Subpage -->
+
+            <!-- Resume Subpage -->
+            <section class="pt-page pt-page-3" data-id="resume">
+              <div class="border-block-top-110"></div>
+              <div class="section-inner">
+                <div class="section-title-block">
+                  <div class="section-title-wrapper">
+                    <h2 class="section-title">Resume</h2>
+                    <h5 class="section-description">6 Years of Experience</h5>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-sm-6 col-md-4 subpage-block">
+                    <div class="block-title">
+                      <h3>Education</h3>
+                    </div>
+                    <div class="timeline">
+                      <!-- Single event -->
+                      <div class="timeline-event te-primary">
+                        <h5 class="event-date">2010</h5>
+                        <h4 class="event-name">Specialization Course</h4>
+                        <span class="event-description">University of Studies</span>
+                        <p>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                      </div>
+                      <!-- Single event -->
+                      <div class="timeline-event te-primary">
+                        <h5 class="event-date">2009</h5>
+                        <h4 class="event-name">Specialization Course</h4>
+                        <span class="event-description">University of Studies</span>
+                        <p>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                      </div>
+                      <!-- Single event -->
+                      <div class="timeline-event te-primary">
+                        <h5 class="event-date">2008</h5>
+                        <h4 class="event-name">Specialization Course</h4>
+                        <span class="event-description">University of Studies</span>
+                        <p>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-4 subpage-block">
+                    <div class="block-title">
+                      <h3>Experience</h3>
+                    </div>
+                    <div class="timeline">
+                      <!-- Single event -->
+                      <div class="timeline-event te-primary">
+                        <h5 class="event-date">Dec 2012 - Current</h5>
+                        <h4 class="event-name">Frontend-developer</h4>
+                        <span class="event-description">Web Agency</span>
+                        <p>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                      </div>
+                      <!-- Single event -->
+                      <div class="timeline-event te-primary">
+                        <h5 class="event-date">Dec 2011 - Nov 2012</h5>
+                        <h4 class="event-name">Web Designer</h4>
+                        <span class="event-description">Apple Inc.</span>
+                        <p>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                      </div>
+                      <!-- Single event -->
+                      <div class="timeline-event te-primary">
+                        <h5 class="event-date">Jan 2010 - Dec 2011</h5>
+                        <h4 class="event-name">Graphic Designer</h4>
+                        <span class="event-description">Web Agency</span>
+                        <p>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6 col-md-4 subpage-block">
+                    <div class="block-title">
+                      <h3>Design Skills</h3>
+                    </div>
+                    <div class="skills-info">
+                      <h4>Web Design</h4>                               
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-1"></div>
+                      </div>
+
+                      <h4>Graphic Design</h4>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-2"></div>
+                      </div>
+
+                      <h4>Print Design</h4>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-3"></div>
+                      </div> 
+                    </div>
+
+                    <div class="block-title">
+                      <h3>Coding Skills</h3>
+                    </div>
+                    <div class="skills-info">
+                      <h4>HML5</h4>                               
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-4"></div>
+                      </div>
+
+                      <h4>CSS3</h4>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-5"></div>
+                      </div>
+
+                      <h4>jQuery</h4>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-6"></div>
+                      </div>
+
+                      <h4>Wordpress</h4>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-7"></div>
+                      </div>
+
+                      <h4>PHP</h4>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-8"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12 col-md-12">
+                    <div class="download-cv-block">
+                      <a class="button" target="_blank" href="#">Download CV</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- End Resume Subpage -->
 
 
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
-<!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
-</script>
-</head>
-<body>
-<div id="content">
-<h1 class="title">Shekhar Mittal</h1>
-<div id="tab-container">
-  <ul>
-    <li><a href="#outline-container-sec-1">About</a></li>
-    <li><a href="#outline-container-sec-2">Research</a></li>
-    <li><a href="#outline-container-sec-3">Papers</a></li>
-    <li><a href="#outline-container-sec-4">Talks</a></li>
-    <li><a href="#outline-container-sec-5">Tools</a></li>
-    <a href="http://shiwali.me" target="_blank">My "Intelligent" half</a>
-    <li><a href="#outline-container-sec-6">Scripts</a></li>
-    <a href="./resume/resume.pdf">CV</a>
-  </ul>
-<hr  />
-<div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">About</h2>
-<div class="outline-text-2" id="text-1">
-<img src="./images/mittal.shekhar.jpg" alt="shekhar's profile picture" style="float:right" height="300" Hspace="20" Vspace = "20"/>
-<p>
-I am a third year Ph.D. student in the <a href="http://www.anderson.ucla.edu/faculty/global-economics-and-management/phd-program">Global Economics and Management</a> program at Anderson School of Management, UCLA. I completed my Master of Public Policy degree from <a href="http://harrisschool.uchicago.edu/">Harris School of Public Policy</a> at <a href="http://www.uchicago.edu/index.shtml">University of Chicago</a> in June 2013. 
-</p>
+            <!-- Portfolio Subpage -->
+            <section class="pt-page pt-page-4" data-id="portfolio">
+              <div class="border-block-top-110"></div>
+              <div class="section-inner">
+                <div class="section-title-block">
+                  <div class="section-title-wrapper">
+                    <h2 class="section-title">Portfolio</h2>
+                    <h5 class="section-description">My Best Works</h5>
+                  </div>
+                </div>
 
-<p>
-I am interested in poverty and development issues in emerging economies. Specifically, I want to understand how the incentives of various stakeholders such as politicians, bureaucrats, and citizens vary. I also want to analyze the impact of this variation towards achieving intended developmental outcomes.
-</p>
+                <!-- Portfolio Content -->
+                <div class="portfolio-content">
+                              
+                  <!-- Portfolio filter -->
+                  <ul id="portfolio_filters" class="portfolio-filters">
+                    <li class="active">
+                      <a class="filter btn btn-sm btn-link active" data-group="all">All</a>
+                    </li>
+                    <li>
+                      <a class="filter btn btn-sm btn-link" data-group="media">Media</a>
+                    </li>
+                    <li>
+                      <a class="filter btn btn-sm btn-link" data-group="illustration">Illustration</a>
+                    </li>
+                    <li>
+                      <a class="filter btn btn-sm btn-link" data-group="video">Video</a>
+                    </li>
+                  </ul>
+                  <!-- End of Portfolio filter -->
 
-<p>
-I received an undergraduate degree in Computer Engineering from University of Delhi. I started my career with Cisco Systems as a software developer in their Core Routing Business Unit. I then moved to a <a href="http://praja.in">start-up</a> which was interested in urban development issues. Most of my time here was spent on building our online platform and collaborating with citizen groups who could potentially use the platform. I followed it with a stint at a public policy think-tank - <a href="http://schoolchoice.in">Center for Civil Society</a>. At CCS, I focussed on the elementary education sector with an emphasis on school choice and the then recently legislated Right of Children to Free and Compulsory Education Act. 
-</p>
+                  <!-- Portfolio Grid -->
+                  <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
 
-<hr  />
-<p>
-I am available at shekhar.dot.mittal.dot.2017.at.anderson.dot.ucla.dot.edu and shekhar.dot.mittal.at.gmail.dot.com. My CV last updated in March, 2016 can be found <a href="http://shekhar.me/resume/resume.pdf">here</a>. My linkedin profile can be found <a href="http://www.linkedin.com/in/shekharmittal">here</a>. I am active on <a href="http://twitter.com/shekhar_m">twitter</a>. 
-</p>
-</div>
-</div>
+                    <!-- Portfolio Item 1 -->
+                    <figure class="item" data-groups='["all", "media"]'>
+                      <a class="ajax-page-load" href="portfolio-1.html">
+                        <img src="images/portfolio/1.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Media</small>
+                          <i class="pe-7s-icon pe-7s-display2"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 1 -->
 
-<div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2">Research</h2>
-<div class="outline-text-2" id="text-2">
-</div><div id="outline-container-sec-2-1" class="outline-3">
-<h3 id="sec-2-1">Ongoing Research</h3>
-<div class="outline-text-3" id="text-2-1">
-</div><div id="outline-container-sec-2-1-1" class="outline-4">
-<h4 id="sec-2-1-1">Where's Value? Using VAT data to improve compliance (with <a href="https://are.berkeley.edu/~aprajit/">Prof Aprajit Mahajan</a>)</h4>
-</div>
-<div id="outline-container-sec-2-1-2" class="outline-4">
-<h4 id="sec-2-1-2">Information Provision and Participatory Budgeting: Mohalla Sabhas in Delhi (with Prof Aprajit Mahajan, <a href="http://www.anderson.ucla.edu/degrees/phd/phd-students/gem/fiorin">Stefano Fiorin</a>)</h4>
-</div>
-</div>
-<div id="outline-container-sec-2-2" class="outline-3">
-<h3 id="sec-2-2">Research Experience</h3>
-<div class="outline-text-3" id="text-2-2">
-</div><div id="outline-container-sec-2-2-1" class="outline-4">
-<h4 id="sec-2-2-1">World Values Survey</h4>
-<div class="outline-text-4" id="text-2-2-1">
-<p>
-With <a href="http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/wacziarg">Prof Romain Wacziarg</a>, I used the World Values Survey data to compute various measures of cultural distance between countries. We automated this in Stata and based this distance measure on differences in answer frequencies to a series of questions. This distance measure was calculated in euclidian, manhattan and FST form.
-</p>
-</div>
-</div>
-<div id="outline-container-sec-2-2-2" class="outline-4">
-<h4 id="sec-2-2-2">United States Historical Election Returns</h4>
-<div class="outline-text-4" id="text-2-2-2">
-<p>
-With <a href="http://www.anderson.ucla.edu/faculty/paola.giuliano/">Prof Paola Giuliano</a>, I use the US historical election returns data to calculate the county level vote share of all political parties from 1824 to 1968.<br  />
-</p>
-</div>
-</div>
-<div id="outline-container-sec-2-2-3" class="outline-4">
-<h4 id="sec-2-2-3">Extreme coefficients of 2<sup>k</sup> regressions</h4>
-<div class="outline-text-4" id="text-2-2-3">
-<p>
-Under <a href="http://www.anderson.ucla.edu/faculty/global-economics-and-management/faculty/leamer">Prof Ed Leamer</a>, I used Matlab to implement possible methods to efficiently determine extreme coefficients of 2k regressions. We also tried to develop efficient techniques to identify all the orthants of 2k regression coefficients.
-</p>
-</div>
-</div>
+                    <!-- Portfolio Item 2 -->
+                    <figure class="item" data-groups='["all", "video"]'>
+                      <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Praesent Dolor Ex" class="lightbox mfp-iframe">
+                        <img src="images/portfolio/2.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Video</small>
+                          <i class="pe-7s-icon pe-7s-video"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 2 -->
 
-<div id="outline-container-sec-2-2-4" class="outline-4">
-<h4 id="sec-2-2-4">Evaluation of Right to Public Service Schemes</h4>
-<div class="outline-text-4" id="text-2-2-4">
-<p>
-With <a href="http://faculty.chicagobooth.edu/marianne.bertrand/index.html">Professor Marianne Bertrand</a> and <a href="http://dss.ucsd.edu/~pniehaus/">Professor Paul Niehaus</a>, I evaluated the implementation of Right to Public Services Act that was introduced in Karnataka, India. We analysed the government data on service requests to figure out patterns related to accuracy of information being captured and time to resolution of requests. (The report is available upon request)
-</p>
+                    <!-- Portfolio Item 3 -->
+                    <figure class="item" data-groups='["all","illustration"]'>
+                      <a href="images/portfolio/full/3.jpg" class="lightbox" title="Duis Eu Eros Viverra">
+                        <img src="images/portfolio/3.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Illustration</small>
+                          <i class="pe-7s-icon pe-7s-photo"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 3 -->
 
-<p>
-I went to Karnataka to understand the design and implementation of the Act. I interacted with all the government level stakeholders and visited various government offices to witness the ground realities. I developed and piloted a survey questionnaire which captured the experience and perception of citizens who avail the services that are covered under the Act. 
-</p>
-</div>
-</div>
+                    <!-- Portfolio Item 4 -->
+                    <figure class="item" data-groups='["all", "media"]'>
+                      <a class="ajax-page-load" href="portfolio-2.html">
+                        <img src="images/portfolio/4.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Media</small>
+                          <i class="pe-7s-icon pe-7s-display2"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 4 -->
 
+                    <!-- Portfolio Item 5 -->
+                    <figure class="item" data-groups='["all", "illustration"]'>
+                      <a href="images/portfolio/full/5.jpg" class="lightbox" title="Aliquam Condimentum Magna Rhoncus">
+                        <img src="images/portfolio/5.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Illustration</small>
+                          <i class="pe-7s-icon pe-7s-photo"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 5 -->
 
-<div id="outline-container-sec-2-2-5" class="outline-4">
-<h4 id="sec-2-2-5">Measuring performance and analysing time-use of Indian Administrative Service (IAS) officers</h4>
-<div class="outline-text-4" id="text-2-2-5">
-<p>
-This project was also with Professor Marianne Bertrand and Professor Paul Niehaus. I undertook a ﬁeld trip to Bihar, India to understand the time-use of district magistrates. Here, I shadowed 2 district magistrates for a week each for as much time as they permitted. The goal of the exercise was multi-fold: to grasp the variation in the tasks that a district magistrate undertakes, to understand the dynamics of her relationship with all the agents she interacts with, the constraints in which she is expected to deliver, and her role and responsibilities. Another aim of the exercise was to understand the organisational setup at the state/district/sub-district level.  
-</p>
+                    <!-- Portfolio Item 6 -->
+                    <figure class="item" data-groups='["all", "media"]'>
+                      <a class="ajax-page-load" href="portfolio-3.html">
+                        <img src="images/portfolio/6.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Media</small>
+                          <i class="pe-7s-icon pe-7s-display2"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 6 -->
 
-<p>
-I developed time-use tracking forms and survey questionnaires for the district magistrates, formulated Right to Information Act questionnaires to get data which could help measure the performance of district level IAS oﬃcers as part of their statutory &amp; regulatory responsibilities.
-</p>
+                    <!-- Portfolio Item 7 -->
+                    <figure class="item" data-groups='["all", "video"]'>
+                      <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Nulla Facilisi" class="lightbox mfp-iframe">
+                        <img src="images/portfolio/7.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Video</small>
+                          <i class="pe-7s-icon pe-7s-video"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 7 -->
 
-<p>
-In the initial stages, I reviewed government documents to understand the statutory and developmental responsibilities of IAS oﬃcers and narrowed the research problem. Between all this, I wrote perl scripts to get election data for national and state level elections (1980 onwards) in India.
-</p>
-</div>
-</div>
+                    <!-- Portfolio Item 8 -->
+                    <figure class="item" data-groups='["all",  "media"]'>
+                      <a class="ajax-page-load" href="portfolio-4.html">
+                        <img src="images/portfolio/8.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Media</small>
+                          <i class="pe-7s-icon pe-7s-display2"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 8 -->
 
+                    <!-- Portfolio Item 9 -->
+                    <figure class="item" data-groups='["all","illustration"]'>
+                      <a href="images/portfolio/full/9.jpg" class="lightbox" title="Mauris Neque Dolor">
+                        <img src="images/portfolio/9.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Illustration</small>
+                          <i class="pe-7s-icon pe-7s-photo"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 9 -->
 
-<div id="outline-container-sec-2-2-6" class="outline-4">
-<h4 id="sec-2-2-6">Effect of name order in Senate roll call voting pattern</h4>
-<div class="outline-text-4" id="text-2-2-6">
-<p>
-Under <a href="https://sites.google.com/a/uchicago.edu/bpmontagnes/home">Professor Pablo Montagnes</a>, I analysed the impact of the order in which a senator is called to vote on her voting behavior. We are able to do this because Senators in the US are called to vote in the order of their last names. <br  />
-</p>
+                    <!-- Portfolio Item 10 -->
+                    <figure class="item" data-groups='["all", "video"]'>
+                      <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Donec Lectus Arcu" class="lightbox mfp-iframe">
+                        <img src="images/portfolio/10.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Video</small>
+                          <i class="pe-7s-icon pe-7s-video"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 10 -->
 
-<p>
-Using combined fixed effects at the senator level and at the congress level, we show that the agreement level of the senators with their party goes up as we go down the order. The major magnitude of the result is being driven by party unity. Senators also get signal from
-the way in which senators from her party have already voted (bandwagon effect).
-</p>
+                    <!-- Portfolio Item 11 -->
+                    <figure class="item" data-groups='["all","illustration"]'>
+                      <a href="images/portfolio/full/11.jpg" class="lightbox" title="Duis Eu Eros Viverra">
+                        <img src="images/portfolio/11.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Illustration</small>
+                          <i class="pe-7s-icon pe-7s-photo"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 11 -->
 
-<p>
-Besides doing the stata analysis, I also wrote perl scripts to extract senate and house roll-call data from 1940 into an analysable data set.
-</p>
+                    <!-- Portfolio Item 12 -->
+                    <figure class="item" data-groups='["all","media"]'>
+                      <a class="ajax-page-load" href="portfolio-5.html">
+                        <img src="images/portfolio/12.jpg" alt="">
+                        <div>
+                          <h5 class="name">Project Name</h5>
+                          <small>Media</small>
+                          <i class="pe-7s-icon pe-7s-display2"></i>
+                        </div>
+                      </a>
+                    </figure>
+                    <!-- /Portfolio Item 12 -->
+                  </div>
+                  <!-- /Portfolio Grid -->
 
-<hr  />
-</div>
-</div>
-</div>
-</div>
-<div id="outline-container-sec-3" class="outline-2">
-<h2 id="sec-3">Papers</h2>
-<div class="outline-text-2" id="text-3">
-<p>
-Summer paper:<br  />
-"<a href="http://shekharmittal.info/papers/shekhar_mittal_summer_paper_2014.pdf">Mumbai municipal elections: Performance and incumbency effect analysis</a>", Shekhar Mittal, Summer 2014.<br  />
-</p>
+                </div>
+                <!-- /Portfolio Content -->
+              </div>
+            </section>
+            <!-- /Portfolio Subpage -->
 
-<p>
-Short independent paper:<br  />
-"<a href="http://shekharmittal.info/papers/shekhar_mittal_ind_study_3003.pdf">Distance as an instrument for measuring centralized control in government schools</a>", Shekhar Mittal, December 2012.<br  />
-</p>
+            <!-- Contact Subpage -->
+            <section class="pt-page pt-page-5" data-id="contact">
+              <div class="border-block-top-110"></div>
+              <div class="section-inner">
+                <div class="section-title-block">
+                  <div class="section-title-wrapper">
+                    <h2 class="section-title">Contact</h2>
+                    <h5 class="section-description">Get in Touch</h5>
+                  </div>
+                </div>
 
-<p>
-Research designs/proposals as part of course-work:<br  />
-"<a href="http://shekharmittal.info/papers/research_proposal_ec242_shekhar_mittal.pdf">Partition of India: Long term effects of selection in migration</a>", Shekhar Mittal, Winter 2015.<br  />
-"<a href="http://shekharmittal.info/papers/india_partition_ec241_shekhar_mittal.pdf">Economic consequences of partition of British India</a>", Shekhar Mittal, Fall 2014.<br  />
-<a href="http://shekhar.me/papers/pe_researchdesign.pdf">"Indian Politics: The Criminals beget Criminals Effect"</a>, Shekhar Mittal, May 2012.<br  />
-</p>
+                <div class="row">
+                  <div class="col-sm-6 col-md-6 subpage-block">
+                    <div class="block-title">
+                      <h3>Get in Touch</h3>
+                    </div>
+                    <p>Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget tincidunt tortor tempus.</p>
+                    <div class="contact-info-block">
+                      <div class="ci-icon">
+                        <i class="pe-7s-icon pe-7s-map-marker"></i>
+                      </div>
+                      <div class="ci-text">
+                        <h5>Los Angeles, USA</h5>
+                      </div>
+                    </div>
+                    <div class="contact-info-block">
+                      <div class="ci-icon">
+                        <i class="pe-7s-icon pe-7s-mail"></i>
+                      </div>
+                      <div class="ci-text">
+                        <h5>alexsmith@example.com</h5>
+                      </div>
+                    </div>
+                    <div class="contact-info-block">
+                      <div class="ci-icon">
+                        <i class="pe-7s-icon pe-7s-call"></i>
+                      </div>
+                      <div class="ci-text">
+                        <h5>+123 654 78900</h5>
+                      </div>
+                    </div>
+                    <div class="contact-info-block">
+                      <div class="ci-icon">
+                        <i class="pe-7s-icon pe-7s-check"></i>
+                      </div>
+                      <div class="ci-text">
+                        <h5>Freelance Available</h5>
+                      </div>
+                    </div>
+                  </div>
 
-<p>
-Policy memo: <br  />
-"<a href="http://shekhar.me/papers/viewpoint10.pdf">Reservation in Private Schools under the Right to Education Act: Model for Implementation</a>", Shekhar Mittal and Parth J Shah, December 2010.<br  />
-</p>
+                  <div class="col-sm-6 col-md-6 subpage-block">
+                    <div class="block-title">
+                      <h3>Contact Form</h3>
+                    </div>
+                    <form id="contact-form" method="post" action="contact_form/contact_form.php">
 
-<hr  />
-</div>
-</div>
-<div id="outline-container-sec-4" class="outline-2">
-<h2 id="sec-4">Graduate presentations</h2>
-<div class="outline-text-2" id="text-4">
-<p>
-Economic History - Western Europe (Ec-242): "<a href="http://shekhar.me/presentations/ec242_presentation_shekhar.pdf">The long term returns to early childhood education: Evidence from the first US Kindergartens, by Francisco Haimovich</a>", Shekhar Mittal, Winter 2015.<br  />
-</p>
+                      <div class="messages"></div>
 
-<p>
-Economic History - US (Ec-241): "<a href="http://shekharmittal.info/presentations/ec241_presentation_shekhar.pdf">History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India by Abhijit Banerjee and Lakshmi Iyer</a>", Shekhar Mittal, Fall 2014.<br  />
-</p>
+                      <div class="controls">
+                        <div class="form-group">
+                            <input id="form_name" type="text" name="name" class="form-control" placeholder="Full Name" required="required" data-error="Name is required.">
+                            <div class="form-control-border"></div>
+                            <i class="form-control-icon pe-7s-user"></i>
+                            <div class="help-block with-errors"></div>
+                        </div>
 
-<p>
-Summer paper presentation: "<a href="http://shekharmittal.info/presentations/shekhar%20mittal_summer_paper_talk.pdf">Does performance of local representatives matter? Case study of Mumbai</a>", Shekhar Mittal, Summer 2014.<br  />
-</p>
-<hr  />
-</div>
-</div>
+                        <div class="form-group">
+                            <input id="form_email" type="email" name="email" class="form-control" placeholder="Email Address" required="required" data-error="Valid email is required.">
+                            <div class="form-control-border"></div>
+                            <i class="form-control-icon pe-7s-mail"></i>
+                            <div class="help-block with-errors"></div>
+                        </div>
 
-<div id="outline-container-sec-5" class="outline-2">
-<h2 id="sec-5">Tools</h2>
-<div class="outline-text-2" id="text-5">
-<p>
-I don't claim to be a computer science nerd but from time to time I wonder if there was a better way to do the task that I was performing. This page is for people like me. Here, I list tools that I have used, and found useful and fascinating. All of them are free and have an active online community. They made my work efficient and fun. If you think I should add something to this list, I am always up for trying new useful tools. (Disclaimer: In some cases, I would not have latched on to these tools had it not been for my computer sciency geeky friends.) 
-</p>
-</div>
+                        <div class="form-group">
+                            <textarea id="form_message" name="message" class="form-control" placeholder="Message for Me" rows="4" required="required" data-error="Please, leave me a message."></textarea>
+                            <div class="form-control-border"></div>
+                            <i class="form-control-icon pe-7s-comment"></i>
+                            <div class="help-block with-errors"></div>
+                        </div>
 
-<div id="outline-container-sec-5-0-1" class="outline-4">
-<h4 id="sec-5-0-1">Drupal (<a href="http://drupal.org/">Link</a>)</h4>
-<div class="outline-text-4" id="text-5-0-1">
-<p>
-If you are looking to create a website which goes beyond text/html/css requirements, drupal is it. A lot of times one needs to include functionalities which are complicated but fairly common. Think integrating google maps, blogs, forums, wikis, anything and everything into one website. Chances are that you will find a module in Drupal which suits your needs closely.
-</p>
-</div>
-</div>
+                        <input type="submit" class="button btn-send" value="Send message">
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- End Contact Subpage -->
 
-<div id="outline-container-sec-5-0-2" class="outline-4">
-<h4 id="sec-5-0-2">Google Refine (<a href="http://code.google.com/p/google-refine/">Link</a>)</h4>
-<div class="outline-text-4" id="text-5-0-2">
-<p>
-If you look into government data developing countries, chances are you regularly come across data with spelling and naming inconsistencies. Google Refine helps you solve that problem. There are other ways in which people have gotten around this problem (reclink command in stata, Prof Bhavnani wrote an <a href="http://www.rikhilbhavnani.com/RB-AMIN.exe%20documentation.pdf">application</a>). I have not tried those other ways. Besides, this one has the google name behind it.
-</p>
-</div>
-</div>
+          </div>
+        </div>
+        <!-- /Page changer wrapper -->
+      </div>
+      <!-- /Main Content -->
+    </div>
 
-<div id="outline-container-sec-5-0-3" class="outline-4">
-<h4 id="sec-5-0-3">FrontlineSMS (<a href="http://www.frontlinesms.com/">Link</a>)</h4>
-<div class="outline-text-4" id="text-5-0-3">
-<p>
-There are lot of SMS server offerings out there. One has to pay for them and be sure of what she wants. On top of that, those services usually require you to have access to internet - a luxury not easily available in developing countries. FrontlineSMS allows you to create and manage common SMS activities such as making announcements, conducting polls and sending automatic replies to incoming SMS. Potentially, a great tool to collect data from the field. All one needs is a laptop and a mobile phone. 
-</p>
-</div>
-</div>
-
-<div id="outline-container-sec-5-0-4" class="outline-4">
-<h4 id="sec-5-0-4">Ushahidi (<a href="http://www.ushahidi.com">Link</a>)</h4>
-<div class="outline-text-4" id="text-5-0-4">
-<p>
-Crowdsourcing is going to be the way to collect data in the near future. Think many kind of issues (<a href="http://votereport.pk/">election violations</a>, <a href="http://www.prijavikorupcija.org/">transparency</a>, etc.)  getting reported live and coming up on a map in a crowd sourced manner. Ushahidi will enable that. 
-</p>
-</div>
-</div>
-
-<div id="outline-container-sec-5-0-5" class="outline-4">
-<h4 id="sec-5-0-5">Emacs (<a href="http://www.gnu.org/software/emacs/">Link</a>) plus Org-Mode (<a href="http://orgmode.org/">Link</a>)</h4>
-<div class="outline-text-4" id="text-5-0-5">
-<p>
-These tools have a little steep learning curve but once you cross it, they are addictive! I use emacs to write and edit: assignments, papers, presentations, latex files, scripts, anything and everything. One can open multiple files in the same window and then compile them from there itself. 
-Mouse becomes redundant. Org-mode allows you to create to-do lists, track agendas, create text files and then very easily export them to other formats such as latex, pdfs and htmls. 
-</p>
-
-<p>
-This website was completely built in emacs and org-mode. 
-</p>
-
-<hr  />
-</div>
-</div>
-</div>
-<div id="outline-container-sec-6" class="outline-2">
-<h2 id="sec-6">Scripts</h2>
-<div class="outline-text-2" id="text-6">
-<p>
-Here you will find a few basic scripts that I put together (copied and modified from internet) to clean data that was needed in our research. Feel free to use them. Send some more my way if you have them.  
-Most scripts that we write have already been written by someone. No point in reinventing the wheel. Hopefully this list will grow with time. 
-</p>
-</div>
-
-<div id="outline-container-sec-6-0-1" class="outline-4">
-<h4 id="sec-6-0-1">Perl Scripts</h4>
-<div class="outline-text-4" id="text-6-0-1">
-<p>
-a. Convert from pdf to text (<a href="http://shekhar.me/scripts/createpdf2txt.pl">Download</a>)<br  />
-Copying text from pdf is easy. But if one has to do it for multiple files and multiple pages it can be slow, painful and boring. This small script automates it. <br  />
-</p>
-
-<p>
-b. Convert from text to csv (<a href="http://shekhar.me/scripts/createtxt2csv.pl">Download</a>)<br  />
-One needs to know how to handle <i>regular expressions</i> in perl to do this (if one wants to use this code, she will have to change the regular expression for sure). This script reads the text file line by line and puts the content in the required csv format. <br  />
-</p>
-</div>
-</div>
-
-<div id="outline-container-sec-6-0-2" class="outline-4">
-<h4 id="sec-6-0-2">Stata Scripts</h4>
-<div class="outline-text-4" id="text-6-0-2">
-<p>
-Writing "for loops" in stata is cumbersome. Here (<a href="http://shekhar.me/scripts/multiplesheets2singledataset.do">download</a>) is a stata file in which I read specific cells from the multiple tabs of the same excel file and then append them into a single dataset. 
-</p>
-<hr  />
-</div>
-</div>
-</div>
-</div>
-<div id="postamble" class="status">
-<p class="date">Created: 2017-02-14 Tue 19:27</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
-</div>
-</body>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/pages-switcher.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/validator.js"></script>
+    <script src="js/jquery.shuffle.min.js"></script>
+    <script src="js/masonry.pkgd.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/tilt.jquery.min.js"></script>
+    <script src="js/jquery.hoverdir.js"></script>
+    <script src="js/main.js"></script>
+  </body>
 </html>
