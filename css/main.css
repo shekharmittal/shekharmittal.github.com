@@ -911,9 +911,9 @@ ul.social-links li:last-child a {
   width: 100%;
   position: relative;
   margin: 12px 0 0;
-  font-size: 60px;
+  font-size: 30px;
   line-height: 1.1em;
-  color: #EEE;
+  color: #8e8e8e;
   z-index: 1;
 }
 
